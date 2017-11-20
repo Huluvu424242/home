@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/FunThomas424242/home.png?label=ready&title=Ready)](http://waffle.io/FunThomas424242/home)
 
 # Homepage of FunThomas424242 (Thomas Schubert)
 
