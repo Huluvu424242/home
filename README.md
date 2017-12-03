@@ -1,4 +1,4 @@
 
 # Homepage of FunThomas424242 (Thomas Schubert)
 
-This is the [web site of funthomas424242 (only for github projects).](https://funthomas424242.github.io/home/)
+Weitere Informationen über mich finden Sie auf meiner [Homepage](https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/).
