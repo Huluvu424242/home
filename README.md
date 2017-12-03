@@ -1,3 +1,4 @@
+image:https://badge.waffle.io/FunThomas424242/home.svg?columns=all["Waffle.io - Columns and their card count", link="https://waffle.io/FunThomas424242/home"]
 
 # Homepageprojekt von FunThomas424242
 
