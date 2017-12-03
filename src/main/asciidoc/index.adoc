@@ -1,0 +1,15 @@
+# FunThomas424242s Virtuelle Heimat
+
+:Author:    Thomas Schubert
+:Email:     <funthomas424242@gmail.com>
+
+include::Profil.adoc[]
+
+include::Lebenslauf.adoc[]
+
+include::Projekte.adoc[]
+
+include::Hobbies.adoc[]
+
+include::Kontakt.adoc[]
+
