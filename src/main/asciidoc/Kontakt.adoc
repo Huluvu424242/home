@@ -1,0 +1,17 @@
+# Kontakt
+
+[quote, Edsger Wybe Dijkstra]
+Solange es keine Rechner gab,
+stellte die Programmierung kein Problem dar,
+mit ein paar leistungsschwachen Rechnern,
+wurde sie zu einem kleinen Problem
+und nun, mit gigantischen Rechnern,
+ist sie auch ein gigantisches Problem.
+
+## Persönliche Daten
+[horizontal]
+Name:: 	Thomas Schubert (geb. Michel)
+eMail:: funthomas424242@gmail.com
+Homepage:: 	https://stackoverflow.com/users/story/373498
+ICQ:: 	281811262
+Netzwerke:: Minds, Xing, Stayfriends, Stackoverflow, Github, Ohloh, Wordpress

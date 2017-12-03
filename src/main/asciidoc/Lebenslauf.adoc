@@ -1,0 +1,13 @@
+# Lebenslauf
+
+[quote, Albert Einstein]
+Zwei Dinge sind unendlich,
+das Universum und die menschliche Dummheit,
+aber bei dem Universum bin ich mir noch nicht ganz sicher.
+
+## Persönliche Daten
+[horizontal]
+Name:: 	Thomas Schubert (geb. Michel)
+Geburtsdatum:: 	25.12.1968
+Geburtsort:: 	Bernburg
+Familienstand:: 	verheiratet

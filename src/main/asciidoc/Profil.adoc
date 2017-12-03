@@ -1,0 +1,38 @@
+
+# Herzlich Willkommen
+
+[quote, Wolfram Weidner, dt. Journalist (*1925)]
+Erfolg ist, was aus einer Glatze einen glänzenden Kopf macht.
+
+Mein Name ist Thomas Schubert, und ich darf Sie herzlich auf meiner Hompage begrüssen.
+
+Als Softwareentwickler bin ich speziell im Bereich der Anwendungsentwicklung im Java Enterprise Umfeld tätig.
+Hier entwickle ich im Rahmen kleiner Teams an Webanwendungen mit und kann inzwischen auf Erfahrungen mit verschiedenen
+Technologien zurück greifen.
+Eine lange Zeit arbeitete ich im Backend Bereich an der Realisierung der Geschäftslogik und der Anbindung von Legacy Systemen.
+Inzwischen befasse ich mich auch verstärkt mit Realisierungen im Frontend Bereich.
+
+
+Bei der Lösung meiner Aufgaben kommt mir meine langjährige Erfahrung im Bereich der Konzeption und Entwicklung
+datenbankgestützter, modularer Anwendungen zugute. Die ständige Verbesserung der eingesetzen Technologien zur
+effizienteren Erstellung qualitativ hochwertiger Software (Software Engineering) als einziger Ausweg aus der
+Softwarekrise ist sowohl meine berufliche Zielsetzung wie gleichermaßen private Passion. In meiner Freizeit engagiere
+ich mich daher im OpenSource Bereich um die gewonnenen Erkenntnisse einer breiten Öffentlichkeit zur Verfügung zu stellen.
+
+## Systemerfahrungen
+Betriebssysteme:: Debian Linux, Windows
+Sprachen:: Java / JavaScript, SQL und PL/SQL
+Datenbanken:: Oracle, PostgreSQL, Elasticsearch
+Tools:: IntelliJ, Eclipse, git, maven, ant
+
+## Arbeitsmethoden
+* agiles Arbeiten (angepasstes SCRUM)
+* Selbstorganisation nach GTD und Simplify your life.
+
+
+## Interessensgebiete
+* Objektorientierte Softwareentwicklung
+* Compilerbau
+
+## Publikationen
+* link:http://www.sciencedirect.com/science/article/pii/S0953543899000120[(2000) Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues]

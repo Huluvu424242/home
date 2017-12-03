@@ -1,0 +1,22 @@
+# Projekte
+
+[quote, Erich Kästner]
+Es gibt nichts Gutes, außer man tut es.
+
+## Historie
+
+* *1999 (24 Monate)* 	Fördermittelverwaltung des Freistaates Sachsen
+[horizontal]
+  Betriebssystem:: 	Windows NT, Windows95
+  Sprache:: 	Powerscript, SQL
+  Datenbank:: 	Oracle, MS-SQL Server
+  Werkzeuge:: 	PowerBuilder6.5, Objectcycle, Oracle*Designer, Benthic-Tools
+  Technologien:: 	OOP, DB-Normalisierung
+
+* *1996 (24 Monate)* 	BMBF-Förderprojekt EPK-fix zur Entwicklung eines Testassistenzsystems für Elektronische Produktkataloge
+[horizontal]
+  Betriebssystem:: 	Solaris
+  Sprache:: 	Java
+  Datenbank:: 	unbekannt
+  Werkzeuge:: 	Emacs, Latex, Netscape
+  Technologien:: 	OOP, Testung der EPKs mittels Modelchecking basierend auf Statecharts, Beschreibung der EPKs mittels Markupsprache EPKML

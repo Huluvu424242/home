@@ -83,7 +83,7 @@
                         <revnumber>${project.version}</revnumber>
                         <revdate>${maven.build.timestamp}</revdate>
                         <organization>${project.organization.name}</organization>
-                        <sectnums>true</sectnums>
+                        <sectnums>false</sectnums>
                     </attributes>
                     <resources>
                         <resource>

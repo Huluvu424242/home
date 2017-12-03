@@ -1,0 +1,66 @@
+# Hobbies
+
+[quote, George McGovern]
+Je länger der Titel, desto unwichtiger die Aufgabe.
+
+## Lesen
+Bitte nutzt DRM freie eBooks oder eBooks mit Watermark zum Lesen.
+Es schont die Umwelt und stellt aus meiner Sicht ein faires
+Verkaufssystem dar. Freie eBooks sind über das Softwareprogramm
+link:https://calibre-ebook.com/[calibre] findbar.
+
+Ich persönlich nutze zum Lesen link:https://calibre-ebook.com/[calibre],
+link:https://www.dropbox.com/[dropbox] und
+link:https://play.google.com/store/apps/details?id=com.obreey.reader&hl=de[pocketbook reader].
+Mit dieser Kombination kann ich eBooks konvertieren, Texte markieren,
+Lesezeichen setzen, Notizen am Text anbringen und alles geräteübergreifend
+synchronisieren.
+
+
+Diese Bücher haben mir besonders gefallen
+
+[bibliography]
+.(5 Sterne)
+- [[[GO1984]]] Günter Karau. 'Go oder Doppelspiel im Untergrund'.
+ Militärverlag der DDR. 1984. ISBN 978-3929676082.
+- [[[Grenze1986]]] Gerhard Holtz-Baumert (Vorwort), Schriftstellerverband der DDR.
+  'An der Grenze'. Verlag Neues Leben. 1986.
+  ISBN 3-355-00509-6.
+- [[[Lem90]]] Stanislaw Lem.
+  'Sterntagebücher'. Verlag Volk und Welt. 1990.
+  ISBN 3-353-00737-7.
+
+- [[[Adams1991]]] Douglas Adams.
+  'Per Anhalter durch die Galaxis'. Ullstein Verlag. 1991.
+  ISBN 3-548-22491-1.
+- [[[Gibson1987]]] William Gibson.
+  'Neuromancer'. Wilhelm Heyne Verlag. 1987.
+  ISBN 3-453-05665-5.
+- [[[Eschbach2003]]] Andreas Eschbach.
+'Der letzte seiner Art'.
+Gustav Lübbe Verlag. 2003.
+ISBN 3-7857-2123-4.
+- [[[Eschbach1998]]] Andreas Eschbach.
+'Das Jesus Video'.
+Bastei Lübbe Verlag. 1998.
+ISBN 3-404-14294-2.
+- [[[Ende1989]]] Michael Ende.
+'Der Wunschpunsch'.
+Wilhelm Heyne Verlag. 1989.
+ISBN: 3-453-13762-0.
+- [[[Hensel]]] Jana Hensel.
+'Zonenkinder'.
+Rowohlt Verlag. 2003.
+ISBN: 3-498-02972-X.
+- [[[PeterHull1990]]] Peter&Hull.
+'Das Peter Prinzip'.
+Rowohlt Verlag. 1990.
+ISBN 3-499-16793-X.
+- [[[Peter1990]]] Laurence J. Peter.
+'Die Peter Pyramide'.
+Rowohlt Verlag. 1990.
+ISBN 3-499-18715-9.
+- [[[Moos2007]]] Lisa Moos.
+'Das erste Mal und immer wieder'.
+Goldmann Verlag. 2007.
+ISBN 978-3-442-15422-7.
