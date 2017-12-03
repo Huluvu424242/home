@@ -20,6 +20,7 @@ Softwarekrise ist sowohl meine berufliche Zielsetzung wie gleichermaßen private
 ich mich daher im OpenSource Bereich um die gewonnenen Erkenntnisse einer breiten Öffentlichkeit zur Verfügung zu stellen.
 
 ## Systemerfahrungen
+[horizontal]
 Betriebssysteme:: Debian Linux, Windows
 Sprachen:: Java / JavaScript, SQL und PL/SQL
 Datenbanken:: Oracle, PostgreSQL, Elasticsearch
