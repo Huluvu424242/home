@@ -25,7 +25,7 @@ Frameworks:: AngularJS, Spring, Docker, Pact
 Technologien:: 	SPA (Single Page Application), Microservice, REST, CDC (über Pact)
 Arbeitsmethode:: angepasstes SCRUM
 
-* *20XX (>4 Jahre)* Technologiewechsel eines Vermittlungssystems von J2EE auf Generatorgetriebene Entwicklung
+* *20XX (>4 Jahre)* Technologiewechsel eines Vermittlungssystems von J2EE auf Modellgetriebene Entwicklung
 [horizontal]
 Betriebssysteme:: 	Windows 7
 Sprache:: 	Java, Xtext basierte DSLs
