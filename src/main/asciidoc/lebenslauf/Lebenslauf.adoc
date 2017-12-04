@@ -11,3 +11,23 @@ Name:: 	Thomas Schubert (geb. Michel)
 Geburtsdatum:: 	25.12.1968
 Geburtsort:: 	Bernburg
 Familienstand:: 	verheiratet
+
+
+## Ausbildung
+[horizontal]
+09/1975 - 07/1985:: 	Polytechnische Oberschule "Olga Benario Prestes" in Bernburg
+09/1985 - 05/1987:: 	Ausbildung zum Facharbeiter für chemische Produktion im VEB Jenapharm in Jena +
+*Abschluss:* Facharbeiter für chemische Produktion
+05/1987 - 01/1990:: 	Wehrdienst
+04/1991 - 08/1992:: 	Abiturausbildung in Form eines Vorkurses für Facharbeiter an der Technischen Hochschule "Carl-Schorlemmer" in Merseburg
+10/1992 - 04/1999:: 	Studium an der Technischen Universität Dresden in der Fachrichtung Informatik +
+*Abschluss:* Diplominformatiker
+10/1994 - 08/1995:: 	Studentische Hilfskraft am Institut für Informationssysteme
+09/1995 - 09/1997:: 	Studentische Hilfskraft am Institut für Softwaretechnik I
+
+## Tätigkeiten
+[horizontal]
+03/1990 - 03/1991:: 	Anlagenfahrer in der Jenapharm GmbH in Jena
+05/1999 - 02/2001:: 	Systemberater bei der Robotron Datenbank-Software GmbH in Dresden
+03/2001 - 03/2004:: 	Software Engineer bei der Xavo AG in Bayreuth
+06/2004 - heute::   	Softwareentwickler im IT-Systemhaus der Bundesagentur für Arbeit in Nürnberg
