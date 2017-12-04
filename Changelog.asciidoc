@@ -1,0 +1,20 @@
+# Changelog
+Alle wichtigen Änderungen am Projekt sind in dieser Datei dokumentiert.
+
+Das Format basiert auf http://keepachangelog.com/de/[Keep a Changelog].
+Die Versionierung erfolgt nach http://semver.org/lang/de/[Semantic Versioning].
+
+
+# [Unreleased]
+
+## [1.0.0] - XX.XX.XXXX
+### Added
+- Projekt Setup aufgesetzt.
+- Webseiteninhalte von thomas-michel.info übertragen
+- thomas-michel.info abgeschalten.
+
+### Changed
+- n/a
+
+### Removed
+- n/a
