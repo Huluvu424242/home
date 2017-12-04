@@ -5,11 +5,11 @@
 
 include::Profil.adoc[]
 
-include::Lebenslauf.adoc[]
+include::lebenslauf/Lebenslauf.adoc[]
 
-include::Projekte.adoc[]
+include::projekte/Projekte.adoc[]
 
-include::Hobbies.adoc[]
+include::hobbies/Hobbies.adoc[]
 
 include::Kontakt.adoc[]
 
