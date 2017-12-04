@@ -1,0 +1,27 @@
+## Kochen
+
+Zunächst war es nicht gerade mein Hobby, aber wenn ich viel Zeit, Geld und Langeweile habe, koche ich gern mal.
+Leider sind diese Bedingungen fast nie erfüllt und so koche ich nur um mich zu ernähren.
+
+Da ich 1985 gleich nach der 10. Klasse das Elternhaus verlassen habe und meine Lehre in den unendlichen Weiten
+des schönen Thüringens verbrachte, stellte sich das Problem der Ernährung.
+Das Internat bot zur damaligen Zeit nur Frühstück und Abendbrot. So startete ich die ersten,
+leider nicht dokumentierten Versuche zur Verarbeitung von Nahrungsmitteln mit dem Ziel essbare Kombinationen zu
+erhalten.
+Das grundlegende Konzept aller Versuche basierte (und wird dies wohl auch in Zukunft tun) auf folgenden Kriterien:
+
+* Einkauf preiswerter Rohstoffe
+* Erzeugung essbarer Endprodukte
+* Die Endprodukte müssen möglichst lange haltbar sein
+* Die Endprodukte müssen dem Körper deutlich mehr Energie zuführen als dem Körper durch Gewinnung, Zubereitung
+und Aufnahme der Endprodukte verloren geht.
+
+Es wird an dieser Stelle betont darauf hingewiesen, dass keines der obigen Kriterien eine Aussage über den Geschmack
+der Endprodukte enthält. Dies ist explizit so gewünscht, da Geschmack ein nicht formal beschreibbares Kriterium
+darstellt. Daher muss jeder selbst entscheiden ob ihm das Endprodukt schmeckt oder eben nicht.
+
+So nach und nach begann ich die von mir durchgeführten Versuche in folgenden Projekten zu dokumentieren.
+
+### Projekte
+* link:https://github.com/FunThomas424242/rezeptbuch[Open Source Rezeptbuch](link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
+* link:https://github.com/FunThomas424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung]

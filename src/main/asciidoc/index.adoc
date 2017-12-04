@@ -9,7 +9,16 @@ include::lebenslauf/Lebenslauf.adoc[]
 
 include::projekte/Projekte.adoc[]
 
+# Hobbies
+
+[quote, Albert Einstein]
+Zwei Dinge sind unendlich,
+das Universum und die menschliche Dummheit,
+aber bei dem Universum bin ich mir noch nicht ganz sicher.
+
 include::hobbies/Hobbies.adoc[]
+
+include::hobbies/Kochen.adoc[]
 
 include::Kontakt.adoc[]
 

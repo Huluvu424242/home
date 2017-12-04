@@ -1,9 +1,7 @@
 # Lebenslauf
 
-[quote, Albert Einstein]
-Zwei Dinge sind unendlich,
-das Universum und die menschliche Dummheit,
-aber bei dem Universum bin ich mir noch nicht ganz sicher.
+[quote, George McGovern]
+Je länger der Titel, desto unwichtiger die Aufgabe.
 
 ## Persönliche Daten
 [horizontal]
