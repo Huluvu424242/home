@@ -5,6 +5,288 @@ Es gibt nichts Gutes, außer man tut es.
 
 ## Historie
 
+* *2017 (12 Monate)* Erstellung eines Registrierungs Services (OASU) für ein Internetportal
+[horizontal]
+Betriebssysteme:: 	Windows 7, Suse Linux
+Sprache:: 	Java, JavaScript
+Datenbank:: 	keine Datenhaltung
+Werkzeuge:: 	Webstorm, IntelliJ, JAWS, git, maven, Stash, Jenkins, Sonar
+Frameworks:: Angular4, Spring, Docker, Pact
+Technologien:: 	SPA (Single Page Application), Microservice, REST, CDC (über Pact)
+Arbeitsmethode:: angepasstes SCRUM
+
+* *2016 (12 Monate)* Erstellung einer Onlinesuche für ein Internetportal
+[horizontal]
+Betriebssysteme:: 	Windows 7, Suse Linux
+Sprache:: 	Java, JavaScript
+Datenbank:: 	Elasticsearch
+Werkzeuge:: 	Webstorm, IntelliJ, JAWS, git, maven, Stash, Jenkins, Sonar
+Frameworks:: AngularJS, Spring, Docker, Pact
+Technologien:: 	SPA (Single Page Application), Microservice, REST, CDC (über Pact)
+Arbeitsmethode:: angepasstes SCRUM
+
+* *20XX (>4 Jahre)* Technologiewechsel eines Vermittlungssystems von J2EE auf Generatorgetriebene Entwicklung
+[horizontal]
+Betriebssysteme:: 	Windows 7
+Sprache:: 	Java, Xtext basierte DSLs
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, SVN, maven, Jenkins, Sonar
+Frameworks:: Spring, Xtext
+Technologien:: 	JavaEE
+Arbeitsmethode:: SCRUM mit 12 Teams
+
+* *2007 (3 Monate)* 	Release Manager
+[horizontal]
+Betreute Pakete:: 	MLK 2.0 Optimierung Schnittstelle
+Werkzeuge:: 	Excel
+Technologien:: 	J2EE, SOA
+
+* *2007 (3 Monate)* Build Manager
+[horizontal]
+Betreute Pakete:: 	Upgrade BK-Text Schnittstelle, Erweiterung der DWH Schnittstelle, Erweiterung der Domain Werdegang, Erweiterung Abmeldegründe, Rolloutplanung 10g Umstellung
+Werkzeuge:: 	Excel, Castor
+Technologien:: 	J2EE, XML
+
+* *2007 (2 Monate)* 	Microteam Lead VAM Erweiterung Paket 1026
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2007 (2 Monate)* 	Microteam Lead VAM Erweiterung Paket 1020
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (1 Monate)* 	VAM Erweiterungen Paket 2.71-11
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (1 Monate)* 	VAM Erweiterungen Paket 2.71-36
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (1 Monat)* 	Übernahme Leitung Subteam "Business Support"
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (1 Monate)* 	Einarbeitung in die Bereiche VAM/Kundenhistorie, VAM/Maßnahmen Leistungen
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (6 Monate)* 	Übernahme des Bereiches VAM/Statusberechnung
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (6 Monate)* 	3rd Level Support für VAM und Schulungsumgebung
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2006 (3 Monate)* 	Betreuung des Bereiches VAM Anbindung an BK-Text
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic, BK-Browser, MS-Word
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2005 (3 Monate)* 	Übernahme der Bereiche DBChange und lokaler Build
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2005 (1 Monat)* 	Erstellung und Einbindung einer Historiendatenbank in den Build und Deployment Prozess
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2005 (12 Monate)* 	Betreuung der STA Testumgebung
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2005 (1 Monat)* 	Anpassungen im Bereich Suchläufe
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC, Materialized Views
+
+* *2005 (1 Monat)* 	Erweiterung des VAM um die Verwaltung von Sperrzeiten
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2004/2005 (3 Monate)* 	Aufsetzen einer Schulungsumgebung
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP, HP-UX, Linux
+Sprache:: 	Java, SQL, Unix Shell
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic, Nagios, I-Planet
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2004/2005 (12 Monate)* 	Einarbeitung in den Bereich VAM Infrastruktur
+[horizontal]
+Betriebssysteme:: 	Windows 2000/XP, HP-UX, Linux
+Sprache:: 	Java, SQL, Unix Shell
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic, Nagios, I-Planet
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2004 (6 Monate)* 	Einarbeitung in das Projekt VAM
+Fachbereiche:: 	Statusberechnung, Fachdienste/Dritte, Eingliederung, BK-Text
+[horizontal]
+Betriebssystem:: 	Windows 2000/XP
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, BEA Weblogic
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2004 (1 Monat)* 	Anbindung MS Outlook-Terminkalender an ein Firmenportal
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	Java, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant, JBoss
+Technologien:: 	J2EE, OOP, JDBC
+
+* *2004 (2 Monate)* 	Erweiterung eines LIMS basierten Qualitätsreporting um ein Modul zum Monatsreporting
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena2
+Sprache:: 	Powerscript, SQL, PL/SQL
+Datenbank:: 	Oracle
+Technologien:: 	OOP, Datenbankprogrammierung, Crystal*Reports
+
+* *2003 (1 Monat)* 	Erweiterung eines Firmenportals um ein Tabakreport Modul
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena2
+Sprache:: 	Java, SQL
+Datenbank:: 	Sybase
+Werkzeuge:: 	JBuilder6, CVS, CAST
+Technologien:: 	J2EE, OOP, Struts
+
+* *2003 (2 Monate)* 	Erweiterung eines Firmenportals um ein Qualitätsreporting Modul
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	SQL, PL/SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, JBoss, PowerDesigner, Benthic-Tools
+Technologien:: 	OOP, Datenbankprogrammierung
+
+* *2003 (1 Monat)* 	Portierung Bedienplatz Rohrippe und BP Verpackung/Versand
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena2
+Sprache:: 	Powerscript
+Datenbank:: 	Sybase
+Werkzeuge:: 	PowerBuilder7.0, CAST
+Technologien:: 	OOP, Datenbankprogrammierung
+
+* *2003 (1 Monat)* 	Erweiterung Webtelefonbuch
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena2
+Sprache:: 	Java, SQL
+Datenbank:: 	Sybase
+Werkzeuge:: 	JBuilder, CAST, Bea-Weblogic
+Technologien:: 	J2EE, Struts, Datenbankprogrammierung
+
+* *2003 (2 Monate)* 	Erstellung einer Qualitätsreporting Anwendung mit Anbindung an ein LIMS basiertes System
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena2
+Sprache:: 	Powerscript
+Datenbank:: 	Oracle
+Werkzeuge:: 	PowerBuilder7.0, CAST, Crystal*Reports
+Technologien:: 	OOP, Datenbankprogrammierung
+
+* *2003 (2 Monate)* 	Steuerungsprogramm für Maschinenkodierung
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	Java
+Datenbank:: 	Oracle
+Werkzeuge:: 	Eclipse, CVS, Ant
+Technologien:: 	UML, OOP, Ansteuerung serieller Schnittstellen, TCP/IP Socketprogrammierung, Threadprogrammierung
+
+* *2002 (1 Monat)* 	Anbindung MS Outlook-Kontakte an ein Firmenportal
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	Java, SQL, PL/SQL
+Datenbank:: 	Oracle, Excel
+Werkzeuge:: 	Eclipse, CVS, Ant, Xavo-Tools
+Technologien:: 	J2EE, OOP
+
+* *2002 (1 Monat)* 	Erweiterung einer Hausleittechnikdatenbank und deren Pflegetool
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	SQL, Powerscript
+Datenbank:: 	Sybase
+Werkzeuge:: 	PowerBuilder6.5, CAST
+Technologien:: 	OOP, Datenbankprogrammierung
+
+* *2002 (6 Monate)* 	Erweiterung einer Rezeptpflegeanwendung
+[horizontal]
+Betriebssystem:: 	Windows 2000, Gena1
+Sprache:: 	Powerscript, SQL
+Datenbank:: 	Sybase
+Werkzeuge:: 	PowerBuilder6.5, CAST
+Technologien:: 	OOP, Datenbankprogrammierung
+
+* *2002 (2 Monate)* 	Portierung verschiedener Qualitätsleitstandsapplikationen
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	Delphi6, SQL
+Datenbank:: 	Sybase
+Werkzeuge:: 	Delphi6, CAST
+Technologien:: 	OOP, Datenbankprogrammierung in 4GL
+
+* *2001 (12 Monate)* 	Erstellung Prototype Firmenportal
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	Java, SQL, PL/SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Kawa,Visual-Age,Eclipse,CVS,Bea-Weblogic, JBoss, Ant, PowerDesigner, Benthic-Tools
+Technologien:: 	J2EE, OOP, JDBC, Datenbankprogrammierung, DB-Normalisierung
+
 * *1999 (24 Monate)* 	Fördermittelverwaltung des Freistaates Sachsen
 [horizontal]
   Betriebssystem:: 	Windows NT, Windows95

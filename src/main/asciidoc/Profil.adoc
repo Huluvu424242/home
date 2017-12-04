@@ -12,7 +12,6 @@ Technologien zurück greifen.
 Eine lange Zeit arbeitete ich im Backend Bereich an der Realisierung der Geschäftslogik und der Anbindung von Legacy Systemen.
 Inzwischen befasse ich mich auch verstärkt mit Realisierungen im Frontend Bereich.
 
-
 Bei der Lösung meiner Aufgaben kommt mir meine langjährige Erfahrung im Bereich der Konzeption und Entwicklung
 datenbankgestützter, modularer Anwendungen zugute. Die ständige Verbesserung der eingesetzen Technologien zur
 effizienteren Erstellung qualitativ hochwertiger Software (Software Engineering) als einziger Ausweg aus der
