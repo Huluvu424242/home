@@ -23,5 +23,5 @@ darstellt. Daher muss jeder selbst entscheiden ob ihm das Endprodukt schmeckt od
 So nach und nach begann ich die von mir durchgeführten Versuche in folgenden Projekten zu dokumentieren.
 
 ### Projekte
-* link:https://github.com/FunThomas424242/rezeptbuch[Open Source Rezeptbuch](link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
-* link:https://github.com/FunThomas424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung]
+* link:https://github.com/FunThomas424242/rezeptbuch[Open Source Rezeptbuch] (link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
+* link:https://github.com/FunThomas424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung] (link:http://funthomas424242.github.io/rezept-xml/rezepte/index.html[Beispielrezepte])
