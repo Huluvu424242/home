@@ -109,14 +109,6 @@
                         <organization>${project.organization.name}</organization>
                         <sectnums>false</sectnums>
                     </attributes>
-                    <resources>
-                        <resource>
-                            <directory>src/main/asciidoc</directory>
-                            <excludes>
-                                <exclude>**/content/**</exclude>
-                            </excludes>
-                        </resource>
-                    </resources>
                 </configuration>
                 <executions>
                     <execution>
@@ -131,10 +123,17 @@
                             <backend>html</backend>
                             <doctype>book</doctype>
                             <attributes>
-                                <pagenums/>
                                 <toc/>
                                 <linkcss>false</linkcss>
                             </attributes>
+                            <resources>
+                                <resource>
+                                    <directory>src/main/asciidoc</directory>
+                                    <excludes>
+                                        <exclude>**/content/**</exclude>
+                                    </excludes>
+                                </resource>
+                            </resources>
                         </configuration>
                     </execution>
                     <execution>
@@ -153,6 +152,20 @@
                                 <toc/>
                                 <linkcss>false</linkcss>
                             </attributes>
+                            <resources>
+                                <resource>
+                                    <directory>src/main/asciidoc</directory>
+                                    <includes>
+                                        <include>**/Lebenslauf.adoc</include>
+                                        <include>**/Projekte.adoc</include>
+                                    </includes>
+                                    <excludes>
+                                        <exclude>**/content/**</exclude>
+                                        <exclude>**/hobbies/**</exclude>
+                                        <exclude>index.pdf</exclude>
+                                    </excludes>
+                                </resource>
+                            </resources>
                         </configuration>
                     </execution>
                 </executions>
