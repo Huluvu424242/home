@@ -1,0 +1,70 @@
+### Buchstabieralphabete der DDR (Stand 1990)
+
+Der Militärfunk der Marine wurde grundsätzlich in russischer Sprache durchgeführt.
+Das deutsche Alphabet wurde im zivilen Fernmeldewesen eingesetzt.
+Das englische Alphabet war westlich und verpönt, Einsatz vorwiegend im Amateurfunk.
+
+Innerhalb der Volksmarine und im Zusammenwirken der Vereinten
+Ostseeflotte ist nach der DV204/0/002 zu buchstabieren!
+
+.Buchstaben
+|===
+2+|Deutsch    2+|DV040/0/004 2+|DV204/0/002 2+|Englisch|Klangbild
+|A	|Anton	    |А	|Анна	        |А	|Аз	        |A	|Alfa	    |.-
+|B	|Berta	    |Б	|Борис	        |Б	|Буки	    |B	|Bravo	    |-...
+|C	|Cäsar	    |Ц	|Цапля	        |Ц	|Цепочка    |C	|Charlie    |-.-.
+|D	|Dora	    |Д	|Димитрий	    |Д	|Добро	    |D	|Delta	    |-..
+|E	|Emil	    |Е	|Елена	        |Е	|Есть	    |E	|Echo	    |.
+|F	|Friedrich	|Ф	|Фёдор	        |Ф	|Ферт	    |F	|Foxtrott	|..-
+|G	|Gustav	    |Г	|Григорий	    |Г	|Глаголь	|G	|Golf	    |--.
+|H	|Heinrich	|Х	|Харитон	    |Х	|Ха	        |H	|Hotel	    |....
+|I	|Ida	    |И	|Иван	        |И	|Иже	    |I	|India	    |..
+|J	|Julius	    |Й	|Иван Краткий   |Й  |И Краткое	|J	|Juliett	|.---
+|K	|Konrad	    |К	|Константин	    |К	|Како	    |K	|Kilo	    |-.-
+|L	|Ludwig	    |Л	|Леонид	        |Л	|Луди	    |L	|Limal	    |.-..
+|M	|Martha	    |М	|Михаил	        |М	|Мьслете	|M	|Mike	    |--
+|N	|Nordpol	|Н	|Николай	    |Н	|Наш	    |N	|November	|-.
+|O	|Otto	    |О	|Ольга	        |О	|Он	        |O	|Oskar	    |---
+|P	|Paula	    |П	|Павел	        |П	|Покой	    |P	|Papa	    |.--.
+|Q	|Quelle	    |Щ	|Щука	        |Щ	|Ща	        |Q	|Quebeck	|--.-
+|R	|Richard	|Р	|Роман	        |Р	|Рцы	    |R	|Romeo	    |.-.
+|S	|Siegfried	|С	|Семён	        |С	|Слово	    |S	|Sierra	    |...
+|T	|Theodor	|Т	|Татьяна	    |Т	|Твердо	    |T	|Tango	    |-
+|U	|Ullrich	|У	|Ульяна	        |У	|Ухо	    |U	|Uniform	|..-
+|V	|Viktor	    |Ж	|Жена	        |Ж	|Живете	    |V	|Viktor	    |...-
+|W	|Wilhelm	|В	|Василий	    |В	|Веди	    |W	|Whisky	    |.--
+|X	|Xanthippe	|Ь	|Мягкий Знак	|Ь	|Мягкий Знак|X	|X-Ray	    |-..-
+|Y	|Ypsilon	|Ы	|Еры	        |Ы	|Еры	    |Y	|Yankee	    |-.--
+|Z	|Zeppelin	|З	|Зинаида	    |З	|Земля	    |Z	|Zulu	    |--..
+|Ä	|Ärger	    |Я	|Яков	        |Я	|Яко        |   |			|.-.-
+|Ö	|Ödipus	    |Ч	|Человек	    |Ч	|Червь		|	|           |---.
+|Ü	|Übel	    |Ю	|Юрий	        |Ю	|Юля		|	|           |..--
+|CH	|Charlotte	|Ш	|Шура	        |Ш	|Шапка		|	|           |----
+|   |           |Э	|Эхо	        |Э	|Эхо		|   |           |..-..
+|===
+
+.Satzzeichen
+|===
+|Deutsch        |DV040/0/004 DV204/0/002    |Englisch	|Klangbild
+|Punkt	        |Точка                      |           |.. .. ..
+|Komma	        |Запятая                    |           |.-.-.-
+|Fragezeichen   |Вопросительный знак        |		    |..--..
+|Trennung       |Раздел                     |           |-...-
+|Irrung         |Испрвляю                   |           |........
+|Schrägstrich	|Дробная                    |           |-..-.
+|===
+
+.Ziffern
+|===
+|Deutsch        |DV040/0/004 DV204/0/002    |Englisch	|Klangbild
+|1	Eins        |Один                       |           |.----
+|2	Zwo	        |Два                        |           |..---
+|3	Drei	    |Три		                |           |...--
+|4	Vier	    |Четыре                     |           |....-
+|5	Fünnef	    |Пять		                |           |.....
+|6	Sechs	    |Шесть                      |           |-....
+|7	Sieben	    |Семь		                |           |--...
+|8	Acht	    |Восемь		                |           |---..
+|9	Neun	    |Девять		                |           |----.
+|0	Null	    |Нуль		                |           |-----
+|===
