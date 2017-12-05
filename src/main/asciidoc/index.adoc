@@ -16,9 +16,13 @@ Zwei Dinge sind unendlich,
 das Universum und die menschliche Dummheit,
 aber bei dem Universum bin ich mir noch nicht ganz sicher.
 
-include::hobbies/Hobbies.adoc[]
+include::hobbies/Lesen.adoc[]
 
 include::hobbies/Kochen.adoc[]
+
+include::hobbies/funk/Funken.adoc[]
+
+include::hobbies/funk/buchstabieralphabete.adoc[]
 
 include::Kontakt.adoc[]
 

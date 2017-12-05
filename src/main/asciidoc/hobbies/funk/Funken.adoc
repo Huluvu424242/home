@@ -6,4 +6,3 @@ Leider bin ich anschließend nie wieder zum Funken gekommen.
 Trotzdem sollen die erstellten Notizen nicht vermodern.
 Daher hier ein paar hoffentlich interessante Dokumente.
 
-include::funk/buchstabieralphabete.adoc[]
