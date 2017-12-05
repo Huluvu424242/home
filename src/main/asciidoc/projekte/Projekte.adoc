@@ -3,7 +3,7 @@
 [quote, Erich Kästner]
 Es gibt nichts Gutes, außer man tut es.
 
-## Historie
+## Berufliche Projekte
 
 * *2017 (12 Monate)* Erstellung eines Registrierungs Services (OASU) für ein Internetportal
 [horizontal]
@@ -25,7 +25,7 @@ Frameworks:: AngularJS, Spring, Docker, Pact
 Technologien:: 	SPA (Single Page Application), Microservice, REST, CDC (über Pact)
 Arbeitsmethode:: angepasstes SCRUM
 
-* *20XX (>4 Jahre)* Technologiewechsel eines Vermittlungssystems von J2EE auf Modellgetriebene Entwicklung
+* *2011 (4 Jahre)* Technologiewechsel eines Vermittlungssystems von J2EE auf Modellgetriebene Entwicklung
 [horizontal]
 Betriebssysteme:: 	Windows 7
 Sprache:: 	Java, Xtext basierte DSLs
@@ -34,6 +34,12 @@ Werkzeuge:: 	Eclipse, SVN, maven, Jenkins, Sonar
 Frameworks:: Spring, Xtext
 Technologien:: 	JavaEE
 Arbeitsmethode:: SCRUM mit 12 Teams
+
+* *2008 (3 Jahre)* Stellvertretende Teamleitung
+[horizontal]
+Teamgröße:: 	ca. 40 Entwickler
+Werkzeuge:: 	Office
+Technologien:: 	Intranetportal
 
 * *2007 (3 Monate)* 	Release Manager
 [horizontal]
@@ -302,3 +308,11 @@ Technologien:: 	J2EE, OOP, JDBC, Datenbankprogrammierung, DB-Normalisierung
   Datenbank:: 	unbekannt
   Werkzeuge:: 	Emacs, Latex, Netscape
   Technologien:: 	OOP, Testung der EPKs mittels Modelchecking basierend auf Statecharts, Beschreibung der EPKs mittels Markupsprache EPKML
+
+## Private Projekte
+
+* *2012 (3 Monate)* link:https://github.com/FunThomas424242/rezept-xml[Erstellung XML/XSLT Templates für Rezepte]
+[horizontal]
+Betriebssysteme:: 	Debian Linux
+Sprache:: 	XML, XSLT
+Werkzeuge:: 	Eclipse, Emacs
