@@ -4,3 +4,11 @@ image:https://travis-ci.org/FunThomas424242/home.svg?branch=master["Build Status
 # Homepageprojekt von FunThomas424242
 
 Weitere Informationen über mich finden Sie auf meiner https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/[Homepage].
+
+# Danksagung
+Dieses Projekt wäre ohne die Dienste, die Open-Source-Projekte großzügig unterstützen, nicht möglich gewesen:
+
+* JFrog für die Bereitstellung von Bintray, der Distributionsplattform, die verwendet wird, um mögliche Downloads anzubieten. Bintray war wirklich von unschätzbarem Wert, da es nicht nur kostenloses Hosting und Traffic für die Software bietet, sondern es auch sehr einfach macht, ein Repository für benutzerdefinierte Binärformate einzurichten und die Metadaten der Downloads zu verwalten. Dank der einfach zu verwendenden REST-API ist es möglich einen automatisierten Workflow mit GitHub und Travis CI einzurichten, um die Software in kürzester Zeit zu erstellen, hochzuladen und zu katalogisieren.
+* Travis CI für cloudbasierte Test- und Build-Services, die sich einfach in GitHub integrieren lassen.
+* GitHub, um es möglich zu machen, an Code in der Cloud zu arbeiten und es einfach zu machen, zu Open-Source-Projekten beizutragen.
+* Waffle.io Ist inzwischen ebenfalls unverzichtbar für die agile Abarbeitung von Bugs und Features. 
