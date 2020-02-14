@@ -201,5 +201,7 @@ cd jsdoc3-maven-plugin.git;git remote update; cd ..
 git clone --mirror https://github.com/FunThomas424242/rezepte.git
 cd rezepte.git;git remote update; cd ..
 
-
+# [50] clone mystorybook
+git clone --mirror https://github.com/FunThomas424242/mystorybook.git
+cd mystorybook.git;git remote update; cd ..
 
