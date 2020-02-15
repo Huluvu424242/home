@@ -205,7 +205,7 @@ cd rezepte.git;git remote update; cd ..
 git clone --mirror https://github.com/FunThomas424242/mystorybook.git
 cd mystorybook.git;git remote update; cd ..
 
-# [50] clone mystorybook
+# [50] clone slideshow-portal
 git clone --mirror https://github.com/FunThomas424242/slideshow-portal.git
 cd slideshow-portal.git;git remote update; cd ..
 
