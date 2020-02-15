@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 # [0] clone 1jar-maven-plugin
 git clone --mirror https://github.com/FunThomas424242/1jar-maven-plugin.git
 cd 1jar-maven-plugin.git;git remote update; cd ..
