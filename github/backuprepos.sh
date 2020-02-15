@@ -205,8 +205,11 @@ cd rezepte.git;git remote update; cd ..
 git clone --mirror https://github.com/FunThomas424242/mystorybook.git
 cd mystorybook.git;git remote update; cd ..
 
-# [50] clone slideshow-portal
+# [51] clone slideshow-portal
 git clone --mirror https://github.com/FunThomas424242/slideshow-portal.git
 cd slideshow-portal.git;git remote update; cd ..
 
+# [52] clone honey-speech-component
+git clone --mirror https://github.com/FunThomas424242/honey-speech-component.git
+cd honey-speech-component.git;git remote update; cd ..
 
