@@ -212,3 +212,12 @@ cd slideshow-portal.git;git remote update; cd ..
 git clone --mirror https://github.com/FunThomas424242/honey-speech-component.git
 cd honey-speech-component.git;git remote update; cd ..
 
+
+# [53] clone open-login
+git clone --mirror https://github.com/FunThomas424242/open-login.git
+cd open-login.git;git remote update; cd ..
+
+
+# [54] clone jlogin
+git clone --mirror https://github.com/FunThomas424242/jlogin.git
+cd jlogin.git;git remote update; cd ..
