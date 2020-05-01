@@ -17,7 +17,7 @@ ICQ:: 	281811262
 Skype:: Huluvu424242
 Netzwerke::
 link:https://www.xing.com/profile/Thomas_Schubert41[Xing,role=external,window=_blank]
-link:https://www.linkedin.com/in/thomas-schubert-16148640/[linkedin,role=external,window=_blank]
+link:https://www.linkedin.com/in/thomas-schubert-16148640/[Linkedin,role=external,window=_blank]
 link:https://stackoverflow.com/users/373498/funthomas424242[Stackoverflow,role=external,window=_blank]
 link:https://github.com/FunThomas424242[github,role=external,window=_blank]
 link:https://bintray.com/funthomas424242/[bintray,role=external,window=_blank]
