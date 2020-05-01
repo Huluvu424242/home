@@ -16,11 +16,11 @@ Homepage:: 	https://stackoverflow.com/users/story/373498
 ICQ:: 	281811262
 Skype:: Huluvu424242
 Netzwerke::
-link:https://www.xing.com/profile/Thomas_Schubert41[Xing],
-link:https://www.linkedin.com/in/thomas-schubert-16148640/[linkedin]
-link:https://stackoverflow.com/users/373498/funthomas424242[Stackoverflow]
-link:https://github.com/FunThomas424242[github]
-link:https://bintray.com/funthomas424242/[bintray]
-link:https://www.openhub.net/accounts/FunThomas424242[Ohloh (OpenHub)]
-link:https://funthomas424242.wordpress.com/[Wordpress]
-link:https://www.last.fm/de/user/Huluvu424242[last.fm]
+link:https://www.xing.com/profile/Thomas_Schubert41[Xing,role=external,window=_blank]
+link:https://www.linkedin.com/in/thomas-schubert-16148640/[linkedin,role=external,window=_blank]
+link:https://stackoverflow.com/users/373498/funthomas424242[Stackoverflow,role=external,window=_blank]
+link:https://github.com/FunThomas424242[github,role=external,window=_blank]
+link:https://bintray.com/funthomas424242/[bintray,role=external,window=_blank]
+link:https://www.openhub.net/accounts/FunThomas424242[Ohloh (OpenHub),role=external,window=_blank]
+link:https://funthomas424242.wordpress.com/[Wordpress,role=external,window=_blank]
+link:https://www.last.fm/de/user/Huluvu424242[last.fm,role=external,window=_blank]
