@@ -1,4 +1,4 @@
-name: Generiere Site and Push
+name: Site Generierung und Push
 
 on:
   push:
