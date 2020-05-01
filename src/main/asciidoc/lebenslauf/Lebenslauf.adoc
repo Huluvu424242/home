@@ -1,9 +1,9 @@
-# Lebenslauf
+= Lebenslauf
 
 [quote, George McGovern]
 Je länger der Titel, desto unwichtiger die Aufgabe.
 
-## Persönliche Daten
+== Persönliche Daten
 [horizontal]
 Name:: 	Thomas Schubert (geb. Michel)
 Geburtsdatum:: 	25.12.1968
@@ -11,7 +11,7 @@ Geburtsort:: 	Bernburg
 Familienstand:: 	verheiratet
 
 
-## Ausbildung
+== Ausbildung
 [horizontal]
 09/1975 - 07/1985:: 	Polytechnische Oberschule "Olga Benario Prestes" in Bernburg
 09/1985 - 05/1987:: 	Ausbildung zum Facharbeiter für chemische Produktion im VEB Jenapharm in Jena +
@@ -23,7 +23,7 @@ Familienstand:: 	verheiratet
 10/1994 - 08/1995:: 	Studentische Hilfskraft am Institut für Informationssysteme
 09/1995 - 09/1997:: 	Studentische Hilfskraft am Institut für Softwaretechnik I
 
-## Tätigkeiten
+== Tätigkeiten
 [horizontal]
 03/1990 - 03/1991:: 	Anlagenfahrer in der Jenapharm GmbH in Jena
 05/1999 - 02/2001:: 	Systemberater bei der Robotron Datenbank-Software GmbH in Dresden

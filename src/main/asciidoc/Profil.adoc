@@ -1,5 +1,5 @@
 
-# Herzlich Willkommen
+== Herzlich Willkommen
 
 [quote, Wolfram Weidner, dt. Journalist (*1925)]
 Erfolg ist, was aus einer Glatze einen glänzenden Kopf macht.
@@ -18,22 +18,22 @@ effizienteren Erstellung qualitativ hochwertiger Software (Software Engineering)
 Softwarekrise ist sowohl meine berufliche Zielsetzung wie gleichermaßen private Passion. In meiner Freizeit engagiere
 ich mich daher im OpenSource Bereich um die gewonnenen Erkenntnisse einer breiten Öffentlichkeit zur Verfügung zu stellen.
 
-## Systemerfahrungen
+=== Systemerfahrungen
 [horizontal]
 Betriebssysteme:: Debian Linux, Windows
 Sprachen:: Java / JavaScript, SQL und PL/SQL
 Datenbanken:: Oracle, PostgreSQL, Elasticsearch
 Tools:: IntelliJ, Eclipse, git, maven, ant
 
-## Arbeitsmethoden
+=== Arbeitsmethoden
 * agiles Arbeiten (angepasstes SCRUM)
 * Selbstorganisation nach GTD und Simplify your life.
 
 
-## Interessensgebiete
+=== Interessensgebiete
 * Objektorientierte Softwareentwicklung
 * Compilerbau
 
-## Publikationen
+=== Publikationen
 * link:http://www.sciencedirect.com/science/article/pii/S0953543899000120[(2000) Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues,role=external,window=_blank]
 auch verfügbar über link:https://doi.org/10.1016/S0953-5438(99)00012-0[https://doi.org/10.1016/S0953-5438(99)00012-0,role=external,window=_blank]

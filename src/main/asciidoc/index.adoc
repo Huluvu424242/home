@@ -1,4 +1,4 @@
-# FunThomas424242s Virtuelle Heimat
+= FunThomas424242s Virtuelle Heimat
 
 :Author:    Thomas Schubert
 :Email:     <funthomas424242@gmail.com>
@@ -9,7 +9,7 @@ include::lebenslauf/Lebenslauf.adoc[]
 
 include::projekte/Projekte.adoc[]
 
-# Hobbies
+= Hobbies
 
 [quote, Albert Einstein]
 Zwei Dinge sind unendlich,

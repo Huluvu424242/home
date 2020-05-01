@@ -1,9 +1,9 @@
-# Projekte
+= Projekte
 
 [quote, Erich Kästner]
 Es gibt nichts Gutes, außer man tut es.
 
-## Berufliche Projekte
+== Berufliche Projekte
 
 * *2017 (12 Monate)* Erstellung eines Registrierungs Services (OASU) für ein Internetportal
 [horizontal]
@@ -309,7 +309,7 @@ Technologien:: 	J2EE, OOP, JDBC, Datenbankprogrammierung, DB-Normalisierung
   Werkzeuge:: 	Emacs, Latex, Netscape
   Technologien:: 	OOP, Testung der EPKs mittels Modelchecking basierend auf Statecharts, Beschreibung der EPKs mittels Markupsprache EPKML
 
-## Private Projekte
+== Private Projekte
 
 * *2012 (3 Monate)* link:https://github.com/FunThomas424242/rezept-xml[Erstellung XML/XSLT Templates für Rezepte]
 [horizontal]

@@ -1,4 +1,4 @@
-# Kontakt
+= Kontakt
 
 [quote, Edsger Wybe Dijkstra]
 Solange es keine Rechner gab,
@@ -8,7 +8,7 @@ wurde sie zu einem kleinen Problem
 und nun, mit gigantischen Rechnern,
 ist sie auch ein gigantisches Problem.
 
-## Persönliche Daten
+== Persönliche Daten
 [horizontal]
 Name:: 	Thomas Schubert (geb. Michel)
 eMail:: huluvu424242@gmail.com und aktuell auch noch funthomas424242@gmail.com
