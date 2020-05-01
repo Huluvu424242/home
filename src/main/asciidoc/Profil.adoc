@@ -35,5 +35,5 @@ Tools:: IntelliJ, Eclipse, git, maven, ant
 * Compilerbau
 
 ## Publikationen
-* link:http://www.sciencedirect.com/science/article/pii/S0953543899000120[(2000) Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues]
-auch verfügbar über link:https://doi.org/10.1016/S0953-5438(99)00012-0[https://doi.org/10.1016/S0953-5438(99)00012-0]
+* link:http://www.sciencedirect.com/science/article/pii/S0953543899000120[(2000) Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues,role=external,window=_blank]
+auch verfügbar über link:https://doi.org/10.1016/S0953-5438(99)00012-0[https://doi.org/10.1016/S0953-5438(99)00012-0,role=external,window=_blank]
