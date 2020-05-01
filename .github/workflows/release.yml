@@ -1,4 +1,4 @@
-name: Generiere Sit and Push
+name: Generiere Site and Push
 
 on:
   push:
