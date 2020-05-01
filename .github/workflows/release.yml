@@ -27,5 +27,7 @@ jobs:
         ./mvnw.sh
         git add ../../docs/*
         git commit -am "neue Doku generiert"
+        git config --global user.email "huluvu424242@gmail.com"
+        git config --global user.name "Huluvu424242 alias FunThomas424242 (Thomas Schubert)"
         git push
 
