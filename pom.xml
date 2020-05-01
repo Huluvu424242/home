@@ -175,6 +175,7 @@
                             <doctype>book</doctype>
                             <attributes>
                                 <toc/>
+                                <toc-title>Inhaltsverzeichnis</toc-title>
                                 <linkcss>false</linkcss>
                             </attributes>
                             <resources>
