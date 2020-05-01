@@ -221,3 +221,7 @@ cd open-login.git;git remote update; cd ..
 # [54] clone jlogin
 git clone --mirror https://github.com/FunThomas424242/jlogin.git
 cd jlogin.git;git remote update; cd ..
+
+# [55] clone honey-slideshow
+git clone --mirror https://github.com/FunThomas424242/honey-slideshow.git
+cd honey-slideshow.git;git remote update; cd ..
