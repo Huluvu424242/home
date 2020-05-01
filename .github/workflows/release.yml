@@ -29,5 +29,6 @@ jobs:
         git config --global user.name "FunThomas424242"
         git add ../../docs/*
         git commit -am "neue Doku generiert"
+        git remote set-url --push origin https://OWNER:${GITHUB_TOKEN}@github.com/FunThomas424242/home.git
         git push origin HEAD:master
 
