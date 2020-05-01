@@ -29,5 +29,5 @@ jobs:
         git config --global user.name "Huluvu424242 alias FunThomas424242 (Thomas Schubert)"
         git add ../../docs/*
         git commit -am "neue Doku generiert"
-        git push
+        git push origin HEAD:master
 
