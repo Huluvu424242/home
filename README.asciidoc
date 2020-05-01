@@ -1,4 +1,5 @@
-image:https://travis-ci.org/FunThomas424242/home.svg?branch=master["Build Status", link="https://travis-ci.org/FunThomas424242/home"]
+
+image:https://github.com/FunThomas424242/home/workflows/CI%20Einfacher%20Build/badge.svg[Build Status]
 
 # Homepageprojekt von FunThomas424242
 
