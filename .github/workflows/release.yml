@@ -25,8 +25,8 @@ jobs:
         echo "<settings><servers><server><id>github</id><username>OWNER</username><password>${GITHUB_TOKEN}</password></server></servers></settings>" > ~/.m2/settings.xml
         cd etc/devscripts
         ./mvnw.sh
-        git config --global user.email "huluvu424242@gmail.com"
-        git config --global user.name "Huluvu424242 alias FunThomas424242 (Thomas Schubert)"
+        git config --global user.email "funthomas424242@gmail.com"
+        git config --global user.name "FunThomas424242"
         git add ../../docs/*
         git commit -am "neue Doku generiert"
         git push origin HEAD:master
