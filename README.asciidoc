@@ -1,11 +1,12 @@
 
-image:https://github.com/FunThomas424242/home/workflows/CI%20Einfacher%20Build/badge.svg[Build Status]
+image:https://github.com/FunThomas424242/home/workflows/CI%20Build/badge.svg[Build Status]
+image:https://github.com/FunThomas424242/home/workflows/Site%20Generierung%20und%20Push/badge.svg[Site Generierung Status]
 
-# Homepageprojekt von FunThomas424242
+= Homepageprojekt von FunThomas424242
 
 Weitere Informationen über mich finden Sie auf meiner https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/[Homepage].
 
-# Danksagung
+== Danksagung
 Dieses Projekt wäre ohne die Dienste, die Open-Source-Projekte großzügig unterstützen, nicht möglich gewesen:
 
 * JFrog für die Bereitstellung von Bintray, der Distributionsplattform, die verwendet wird, um mögliche Downloads anzubieten. Bintray war wirklich von unschätzbarem Wert, da es nicht nur kostenloses Hosting und Traffic für die Software bietet, sondern es auch sehr einfach macht, ein Repository für benutzerdefinierte Binärformate einzurichten und die Metadaten der Downloads zu verwalten. Dank der einfach zu verwendenden REST-API ist es möglich einen automatisierten Workflow mit GitHub und Travis CI einzurichten, um die Software in kürzester Zeit zu erstellen, hochzuladen und zu katalogisieren.
