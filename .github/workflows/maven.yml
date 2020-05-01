@@ -1,4 +1,4 @@
-name: Java CI
+name: CI Einfacher Build
 
 on: [push]
 
@@ -17,4 +17,4 @@ jobs:
       run: |
         chmod +x etc/devscripts/*.sh
         cd etc/devscripts
-        ./mvnw.sh -Pheadless -B package --file pom.xml
+        ./mvnw.sh
