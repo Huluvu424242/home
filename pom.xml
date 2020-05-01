@@ -155,6 +155,8 @@
                     <attributes>
                         <revnumber>${project.version}</revnumber>
                         <revdate>${maven.build.timestamp}</revdate>
+                        <docdate>${maven.build.timestamp}</docdate>
+                        <doctime></doctime>
                         <organization>${project.organization.name}</organization>
                         <sectnums>false</sectnums>
                     </attributes>
