@@ -1,4 +1,3 @@
-image:https://badge.waffle.io/FunThomas424242/home.svg?columns=all["Waffle.io - Columns and their card count",link="https://waffle.io/FunThomas424242/home"]
 image:https://travis-ci.org/FunThomas424242/home.svg?branch=master["Build Status", link="https://travis-ci.org/FunThomas424242/home"]
 
 # Homepageprojekt von FunThomas424242
