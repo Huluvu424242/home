@@ -290,7 +290,7 @@ Technologien:: 	OOP, Datenbankprogrammierung in 4GL
 Betriebssystem:: 	Windows 2000
 Sprache:: 	Java, SQL, PL/SQL
 Datenbank:: 	Oracle
-Werkzeuge:: 	Kawa,Visual-Age,Eclipse,CVS,Bea-Weblogic, JBoss, Ant, PowerDesigner, Benthic-Tools
+Werkzeuge:: 	Kawa IDE,Visual-Age,Eclipse,CVS,Bea-Weblogic, JBoss, Ant, PowerDesigner, Benthic-Tools
 Technologien:: 	J2EE, OOP, JDBC, Datenbankprogrammierung, DB-Normalisierung
 
 * *1999 (24 Monate)* 	Fördermittelverwaltung des Freistaates Sachsen
