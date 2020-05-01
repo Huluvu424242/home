@@ -2,6 +2,7 @@
 
 :Author:    Thomas Schubert
 :Email:     <funthomas424242@gmail.com>
+:toc-title: Table of Adventures
 
 include::Profil.adoc[]
 
