@@ -1,7 +1,7 @@
 // Kurzgeschichte "Zone 7" - Kapitel 2
 == Der Weg ist das Ziel
-> Wer ans Ziel getragen wurde; darf nicht glauben; es erreicht zu haben. 
-> -Marie von Ebner-Eschenbach
+[quote, Marie von Ebner-Eschenbach]
+Wer ans Ziel getragen wurde; darf nicht glauben; es erreicht zu haben. 
 
 Zone 7 war eine auf dem Reißbrett entstandene und ins Nichts gebaute Stadt. Sie lag mitten in der Wüste Gobi. Nach dem Vorbild von Las Vegas bezog auch sie ihre Wasservorräte aus meilenweit entfernten Reservoiren. Zone 7 war eine rein funktionale Stadt. Ihre einzige Aufgabe bestand darin, den Einwohnern Ruhe und Erholung zu verschaffen. Die üblichen Probleme wie Ruhestörender Lärm, Schlägereien, Gewalt und Kriminalität sollten von vornherein durch eine präventive Architektur vermieden werden. Das alles sollte funktionieren obgleich unterschiedlichste Kulturen, Jahrgänge und Menschen diverser Attitüden und Habita zusammen leben sollten. Aus den Eugenischen Kriegen war das Konfliktpotential dieser Art ausführlich bekannt, dokumentiert und nicht nur für dieses Projekt aufgearbeitet wurden. 
 
