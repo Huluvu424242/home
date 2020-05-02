@@ -1,0 +1,18 @@
+= Neuland
+Huluvu424242 <huluvu424242@gmail.com>
+> Eine Geschichte über das Leben im Überlebenskampf der Menschen
+
+:author: Huluvu424242
+:email: huluvu424242@gmail.com
+
+include::hobbies/schreiben/neuland/00_Vorwort.adoc[]   
+
+include::hobbies/schreiben/neuland/01_feindlicheUebernahme.adoc[]
+   
+include::hobbies/schreiben/neuland/02_ZurueckAufNull.adoc[]
+   
+include::hobbies/schreiben/neuland/03_Traum.adoc[]
+   
+include::hobbies/schreiben/neuland/04_ErsterArbeitstag.adoc[]
+   
+include::hobbies/schreiben/neuland/XX_Rueckseite.adoc[]   
