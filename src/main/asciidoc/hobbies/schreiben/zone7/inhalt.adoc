@@ -1,0 +1,8 @@
+= Zone 7 
+
+:author: Huluvu424242
+:email: huluvu424242@gmail.com
+
+include::hobbies/schreiben/zone7/kapitel1.adoc[]   
+
+include::hobbies/schreiben/zone7/kapitel2.adoc[]   
