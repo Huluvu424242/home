@@ -1,21 +1,18 @@
 = Kontakt
-[quote, Albert Einstein]
-Zwei Dinge sind unendlich,
-das Universum und die menschliche Dummheit,
-aber bei dem Universum bin ich mir noch nicht ganz sicher.
-
+[quote, Karl Farkas]
+Beziehungen sind eine Rutschbahn nach oben.
 
 == Persönliche Daten
 [horizontal]
 Name:: 	Thomas Schubert (geb. Michel)
 eMail:: huluvu424242@gmail.com und aktuell auch noch funthomas424242@gmail.com
-Homepage:: 	https://stackoverflow.com/users/story/373498
+Homepage:: 	link:https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/[https://funthomas424242.github.io/home/1.0.0-SNAPSHOT]
 Skype:: Huluvu424242
 ICQ:: 	281811262
 Netzwerke::
 link:https://www.xing.com/profile/Thomas_Schubert41[Xing,role=external,window=_blank]
 link:https://www.linkedin.com/in/thomas-schubert-16148640/[Linkedin,role=external,window=_blank]
-link:https://stackoverflow.com/users/373498/funthomas424242[Stackoverflow,role=external,window=_blank]
+link:https://stackoverflow.com/users/story/373498[Stackoverflow,role=external,window=_blank]
 link:https://github.com/FunThomas424242[github,role=external,window=_blank]
 link:https://bintray.com/funthomas424242/[bintray,role=external,window=_blank]
 link:https://www.openhub.net/accounts/FunThomas424242[Ohloh (OpenHub),role=external,window=_blank]

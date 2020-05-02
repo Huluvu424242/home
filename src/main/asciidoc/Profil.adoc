@@ -20,10 +20,10 @@ ich mich daher im OpenSource Bereich um die gewonnenen Erkenntnisse einer breite
 
 === Systemerfahrungen
 [horizontal]
-Betriebssysteme:: Debian Linux, Windows
+Betriebssysteme:: Linux, Windows
 Sprachen:: Java / JavaScript, SQL und PL/SQL
 Datenbanken:: Oracle, PostgreSQL, Elasticsearch
-Tools:: IntelliJ, Eclipse, git, maven, ant
+Tools:: Webstorm, IntelliJ, Eclipse, git, maven, ant
 
 === Arbeitsmethoden
 * agiles Arbeiten (angepasstes SCRUM)

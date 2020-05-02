@@ -1,4 +1,6 @@
 == Kochen
+[quote, Georg-Wilhelm Exler]
+Kochen ist eine Kunst, genießen auch.
 
 Zunächst war es nicht gerade mein Hobby, aber wenn ich viel Zeit, Geld und Langeweile habe, koche ich gern mal.
 Leider sind diese Bedingungen fast nie erfüllt und so koche ich nur um mich zu ernähren.
@@ -23,5 +25,8 @@ darstellt. Daher muss jeder selbst entscheiden ob ihm das Endprodukt schmeckt od
 So nach und nach begann ich die von mir durchgeführten Versuche in folgenden Projekten zu dokumentieren.
 
 === Projekte zu Rezeptsammlungen
+[quote, Stanislaw Jerzy Lec]
+Auch Kochbücher sollten der Zensur unterliegen.
+
 * link:https://github.com/FunThomas424242/rezeptbuch[Open Source Rezeptbuch] (link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
 * link:https://github.com/FunThomas424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung] (link:http://funthomas424242.github.io/rezept-xml/rezepte/index.html[Beispielrezepte])

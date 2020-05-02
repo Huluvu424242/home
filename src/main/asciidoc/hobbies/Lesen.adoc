@@ -1,4 +1,6 @@
 == Lesen
+[quote, James Daniel]
+Bücher sind fliegende Teppiche ins Reich der Phantasie.
 
 Bitte nutzt DRM freie eBooks oder eBooks mit Watermark zum Lesen.
 Es schont die Umwelt und stellt aus meiner Sicht ein faires
@@ -13,10 +15,13 @@ Lesezeichen setzen, Notizen am Text anbringen und alles geräteübergreifend
 synchronisieren.
 
 
-Diese Bücher haben mir besonders gefallen
+[quote, Hans Krailsheimer]
+Zu mancher richtigen Entscheidung kam es nur, weil der Weg zur falschen gerade nicht frei war.
+
+Diese Bücher haben mir besonders gefallen aber entscheiden Sie selbst:
 
 [bibliography]
-.(5 Sterne)
+.(5 Sterne von 5)
 - [[[GO1984]]] Günter Karau. 'Go oder Doppelspiel im Untergrund'.
  Militärverlag der DDR. 1984. ISBN 978-3929676082.
 - [[[Grenze1986]]] Gerhard Holtz-Baumert (Vorwort), Schriftstellerverband der DDR.

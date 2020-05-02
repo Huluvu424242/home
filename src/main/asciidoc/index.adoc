@@ -11,11 +11,19 @@ include::lebenslauf/Lebenslauf.adoc[]
 include::projekte/Projekte.adoc[]
 
 = Hobbies
+[quote, Edsger Wybe Dijkstra]
+Solange es keine Rechner gab,
+stellte die Programmierung kein Problem dar,
+mit ein paar leistungsschwachen Rechnern,
+wurde sie zu einem kleinen Problem
+und nun, mit gigantischen Rechnern,
+ist sie auch ein gigantisches Problem.
 
-[quote, Albert Einstein]
-Zwei Dinge sind unendlich,
-das Universum und die menschliche Dummheit,
-aber bei dem Universum bin ich mir noch nicht ganz sicher.
+In meinem Leben habe ich mich bisher für viele Dinge interessiert. Leider mußte ich auch feststellen, dass diese viel
+Zeit in Anspruch nehmen und man sich wohl oder übel einschränken muß. Durch diese Erkenntnis haben es das Ausschlachten
+alter Fernseher, das Löten von Leiterplatten, der Chemiebaukasten, das Arbeiten im Fotolabor, das Sezieren von Pflanzen,
+die Stunden am Mikroskop, das Astrofernrohr und die Modelleisenbahn leider nicht bis in die heutige Zeit geschafft. Dafür 
+habe ich viele neue Dinge kennengelernt, die ich nun ausprobiere :)
 
 // Funken
 include::hobbies/funk/Funken.adoc[]

@@ -1,4 +1,7 @@
 == Funken
+[quote, Albert Einstein]
+Sehen Sie, drahtgebundene Telegraphie ist etwas wie eine sehr, sehr lange Katze. Sie ziehen in New York am Schweif und hören es in Los Angeles miauen. Verstehen Sie? Und Radio funktioniert genauso: Sie senden ihre Signale von hier aus, und dort empfangen Sie sie. Der einzige Unterschied ist, dass da keine Katze ist.
+
 Ich wollte immer zum Amateurfunk, hab bei der GST aber nie eine Ausbildung bekommen.
 Daher hab ich mich dann beim Militär als Funker ausbilden lassen :-)
 
