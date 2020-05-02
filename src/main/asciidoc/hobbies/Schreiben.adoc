@@ -14,6 +14,6 @@ Meine Intuition sagt mir zwar, dass es dazu eines Planes bedarf aber da halte ic
 
 Also denn! Letzte Warnung es folgen eigene Texte :)
 
-* link:hobbies/schreiben/neuland/inhalt.html[Neuland]
-* link:hobbies/schreiben/zone7/inhalt.html[Zone 7]
+* link:hobbies/schreiben/neuland/inhalt.html[Neuland,role=external,window=_blank]
+* link:hobbies/schreiben/zone7/inhalt.html[Zone 7,role=external,window=_blank]
  
