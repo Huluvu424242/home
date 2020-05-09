@@ -2,6 +2,7 @@
 
 # alte Projekte entfernen
 rm -rf honey-speech-component.git
+rm -rf slideshow-portal.git
 
 # [0] clone 1jar-maven-plugin
 git clone --mirror https://github.com/FunThomas424242/1jar-maven-plugin.git
@@ -207,9 +208,9 @@ cd rezepte.git;git remote update; cd ..
 git clone --mirror https://github.com/FunThomas424242/mystorybook.git
 cd mystorybook.git;git remote update; cd ..
 
-# [51] clone slideshow-portal
-git clone --mirror https://github.com/FunThomas424242/slideshow-portal.git
-cd slideshow-portal.git;git remote update; cd ..
+# [51] clone foile-pile
+git clone --mirror https://github.com/FunThomas424242/foile-pile.git
+cd foile-pile.git;git remote update; cd ..
 
 # [52] clone honey-speech
 git clone --mirror https://github.com/FunThomas424242/honey-speech.git
