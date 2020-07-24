@@ -4,7 +4,7 @@ image:https://github.com/Huluvu424242/home/workflows/Site%20Generierung%20und%20
 
 = Homepageprojekt von Huluvu424242
 
-Weitere Informationen über mich finden Sie auf meiner https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/[Homepage].
+Weitere Informationen über mich finden Sie auf meiner https://huluvu424242.github.io/home/1.0.0-SNAPSHOT/[Homepage].
 
 == Danksagung
 Dieses Projekt wäre ohne die Dienste, die Open-Source-Projekte großzügig unterstützen, nicht möglich gewesen:

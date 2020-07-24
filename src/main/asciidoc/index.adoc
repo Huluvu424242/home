@@ -1,7 +1,7 @@
-= FunThomas424242s Virtuelle Heimat
+= Huluvu424242s Virtuelle Heimat
 
 :Author:    Thomas Schubert
-:Email:     <funthomas424242@gmail.com>
+:Email:     <huluvu424242@gmail.com>
 :toc-title: Table of Adventures
 
 include::Profil.adoc[]
