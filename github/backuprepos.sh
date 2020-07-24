@@ -88,13 +88,13 @@ cd cnf.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/codersdojo.katas.git
 cd codersdojo.katas.git;git remote update; cd ..
 
-# [21] clone com.github.Huluvu424242.rades.evm
-git clone --mirror https://github.com/Huluvu424242/com.github.Huluvu424242.rades.evm.git
-cd com.github.Huluvu424242.rades.evm.git;git remote update; cd ..
+# [21] clone com.github.funthomas424242.rades.evm
+git clone --mirror https://github.com/Huluvu424242/com.github.funthomas424242.rades.evm.git
+cd com.github.funthomas424242.rades.evm.git;git remote update; cd ..
 
-# [22] clone com.github.Huluvu424242.rades.evm.generator
-git clone --mirror https://github.com/Huluvu424242/com.github.Huluvu424242.rades.evm.generator.git
-cd com.github.Huluvu424242.rades.evm.generator.git;git remote update; cd ..
+# [22] clone com.github.funthomas424242rades.evm.generator
+git clone --mirror https://github.com/Huluvu424242/com.github.funthomas424242.rades.evm.generator.git
+cd com.github.funthomas424242.rades.evm.generator.git;git remote update; cd ..
 
 # [23] clone CryptMan
 git clone --mirror https://github.com/Huluvu424242/CryptMan.git
