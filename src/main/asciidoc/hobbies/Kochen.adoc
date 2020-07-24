@@ -28,5 +28,5 @@ So nach und nach begann ich die von mir durchgeführten Versuche in folgenden Pr
 [quote, Stanislaw Jerzy Lec]
 Auch Kochbücher sollten der Zensur unterliegen.
 
-* link:https://github.com/FunThomas424242/rezeptbuch[Open Source Rezeptbuch] (link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
-* link:https://github.com/FunThomas424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung] (link:http://funthomas424242.github.io/rezept-xml/rezepte/index.html[Beispielrezepte])
+* link:https://github.com/Huluvu424242/rezeptbuch[Open Source Rezeptbuch] (link:http://funthomas424242.github.io/rezeptbuch/kochbuch/index.html[aktuelle Version])
+* link:https://github.com/Huluvu424242/rezept-xml[Rezept XML - XSL basierte Veröffentlichung] (link:http://funthomas424242.github.io/rezept-xml/rezepte/index.html[Beispielrezepte])

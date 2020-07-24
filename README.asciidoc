@@ -1,8 +1,8 @@
 
-image:https://github.com/FunThomas424242/home/workflows/CI%20Build/badge.svg[Build Status]
-image:https://github.com/FunThomas424242/home/workflows/Site%20Generierung%20und%20Push/badge.svg[Site Generierung Status]
+image:https://github.com/Huluvu424242/home/workflows/CI%20Build/badge.svg[Build Status]
+image:https://github.com/Huluvu424242/home/workflows/Site%20Generierung%20und%20Push/badge.svg[Site Generierung Status]
 
-= Homepageprojekt von FunThomas424242
+= Homepageprojekt von Huluvu424242
 
 Weitere Informationen über mich finden Sie auf meiner https://funthomas424242.github.io/home/1.0.0-SNAPSHOT/[Homepage].
 

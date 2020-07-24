@@ -311,7 +311,7 @@ Technologien:: 	J2EE, OOP, JDBC, Datenbankprogrammierung, DB-Normalisierung
 
 == Private Projekte
 
-* *2012 (3 Monate)* link:https://github.com/FunThomas424242/rezept-xml[Erstellung XML/XSLT Templates für Rezepte]
+* *2012 (3 Monate)* link:https://github.com/Huluvu424242/rezept-xml[Erstellung XML/XSLT Templates für Rezepte]
 [horizontal]
 Betriebssysteme:: 	Debian Linux
 Sprache:: 	XML, XSLT

@@ -27,8 +27,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub FunThomas424242 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/FunThomas424242/${project.artifactId}</url>
+            <name>GitHub Huluvu424242 Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/Huluvu424242/${project.artifactId}</url>
         </repository>
     </distributionManagement>
 
