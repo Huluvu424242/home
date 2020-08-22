@@ -19,6 +19,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        cd ~
         git clone https://github.com/Huluvu424242/home.git
         chmod +x etc/devscripts/*.sh
         mkdir -p ~/.m2
