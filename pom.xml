@@ -98,7 +98,7 @@
                 <configuration>
                     <filesets>
                         <fileset>
-                            <directory>docs/${project.version}</directory>
+                            <directory>docs</directory>
                             <followSymlinks>false</followSymlinks>
                         </fileset>
                     </filesets>
