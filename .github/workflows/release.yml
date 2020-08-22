@@ -24,7 +24,7 @@ jobs:
         mkdir -p ~/.m2
         echo "<settings><servers><server><id>github</id><username>OWNER</username><password>${GITHUB_TOKEN}</password></server></servers></settings>" > ~/.m2/settings.xml
         cd etc/devscripts
-        ./mvnw.sh
+        ./mvnw.sh -Pskippdf
         git config --global user.email "huluvu424242@gmail.com"
         git config --global user.name "Huluvu424242"
         git config advice.addIgnoredFile false

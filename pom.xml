@@ -22,6 +22,7 @@
         <asciidoctorj.pdf.version>1.5.3</asciidoctorj.pdf.version>
         <asciidoctorj.version>2.2.0</asciidoctorj.version>
         <jruby.version>9.2.11.1</jruby.version>
+        <skippdf>false</skippdf>
     </properties>
 
     <distributionManagement>
@@ -195,6 +196,7 @@
                             <goal>process-asciidoc</goal>
                         </goals>
                         <configuration>
+                            <skip>skippdf</skip>
                             <outputDirectory>docs</outputDirectory>
                             <sourceHighlighter>coderay</sourceHighlighter>
                             <backend>pdf</backend>
@@ -224,4 +226,12 @@
             </plugin>
         </plugins>
     </build>
+    <profiles>
+        <profile>
+            <id>skippdf</id>
+            <properties>
+                <skippdf>true</skippdf>
+            </properties>
+        </profile>
+    </profiles>
 </project>
