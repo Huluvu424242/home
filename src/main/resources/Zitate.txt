@@ -1,0 +1,14 @@
+# Zitate
+Die Distanz zwischen Deinen Träumen und Der Realität heißt Handeln! - unbekannt
+
+
+# Quellen
+MMI, USSD, GSM Codes: https://www.android-user.de/tipp-was-ist-ein-mmi-ussd-oder-gsm-code-und-wofuer-kann-man-sie-nutzen/
+-> *#06# ->IMEI-Nummer (15-stellige Seriennummer) deines Smartphones
+-> *31# -> dauerhafte Rufnummernunterdrückung
+-> #31# -> dauerhafte Rufnummerunterdrückung aufheben
+-> *31# Nr ->  zeigt eigene Nurmmer für Anruf an Nr an
+-> #31# Nr ->   Rufnummernunterdrückung für den Anruf an Nr
+GSM Steuercodes: http://members.chello.at/johnny/gsm/steuercodes.htm
+USSD Codes: https://de.wikipedia.org/wiki/USSD-Codes
+

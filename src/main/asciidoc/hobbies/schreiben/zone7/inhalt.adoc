@@ -6,3 +6,5 @@
 include::hobbies/schreiben/zone7/kapitel1.adoc[]   
 
 include::hobbies/schreiben/zone7/kapitel2.adoc[]   
+
+include::hobbies/schreiben/zone7/kapitel3.adoc[]
