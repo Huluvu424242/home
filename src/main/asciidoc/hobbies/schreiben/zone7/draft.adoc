@@ -1,6 +1,86 @@
 // Kurzgeschichte "Zone 7" - Kapitel X
-== Heute, ist die Zukunft von gestern
-[quote, Franz Liszt]
-Glücklich, wer mit den Verhältnissen zu brechen versteht, ehe sie ihn gebrochen haben!
+== My home is my castle
 
-blah blah
+[quote,Ulrich Erckenbrecht]
+Die städtische Kriminalität hat sich so stark auf das Land ausgebreitet, daß man selbst in Kuhdörfern noch mehr Bullen benötigt.
+
+Nachdem Lizzy mich im Klang der 80er Jahre des 20. Jahrhunderts zur Zone 7 gebracht hatte, entließ sie mich mit einem freundlichen “Bitte buchen Sie bald wieder bei China Cars - DEM asiatischen Verband der Taxiunternehmen.
+Mein Name ist Lizzy und ich hoffe die Fahrt hat Ihnen gefallen.
+Sie befinden sich nun am Fuße des Twin Tower Memorials von Zone 7.”
+
+In der 23. Etage war ich mit Mark verabredet.
+“Herzlich willkommen in meinem Reich.” begrüßte mich Mark in seiner Wohnung.
+“Ich hoffe die Reise war angenehm.” “Ja, durchaus und auf jeden Fall interessanter als die letzten 3 Jahre im Orbit.” gab ich zur Erwiderung zurück.
+“Stimmt, Du warst ja vermutlich schon lange nicht mehr in einer echten Stadt.
+Ok.
+Zone 7 ist zwar nur eine konstruierte Stadt aber irgendwie ist ja jede Stadt letztlich konstruiert und künstlich erbaut wurden.
+Dennoch ist es etwas anderes in Häusern zu leben als in Zimmern einer Orbitalstation.
+Vermutlich sollte ich Dich zunächst mit den wichtigsten Dingen vertraut machen.
+Nicht das Du hier gleich einen Sicherheitsvorfall auslöst.” Dabei mussten wir beide lachen.
+
+Aber natürlich hatte er Recht, ich war schon so ewig nicht mehr in einer echten Stadt, dass es durchaus gut war nochmal einen kleinen Überblick über die Gepflogenheiten zu bekommen.
+“Also das Grundprinzip in Zone 7 ist ganz einfach.
+Wir trennen alles in Arbeit und Erholung.
+Erholung findet in der Stadt statt, Arbeit in den Gewerbegebieten außerhalb der Stadt.
+Zwangsläufig gibt es Grauzonen in denen Arbeit mit Erholung zusammenfällt.
+Beispielsweise wenn Du beim Erholen einen Unfall erleidest, ruft dies zwangsläufig einen Notdienst auf den Plan welcher prinzipiell unter Arbeit fällt und damit eigentlich nichts in der Stadt zu suchen hätte.
+Das aber wäre natürlich Quatsch.
+Also wurde bei der Erarbeitung der Regeln auf Augenmaß und gesunden Menschenverstand Wert gelegt.” So fing Mark an mir die Konzepte von Zone 7 zu erläutern.
+“Aus meiner Sicht eine weise Entscheidung.
+Allerdings hörte ich auf meiner Reise bereits von Leuten welche wohl ketzerisch fragen, nach welchem Menschenverstand dies alles geschehen sei.
+Dem von Menschen oder dem von Übermenschen?” Die Mine von Mark wurde nun ernster.
+“Ja, damit hast Du bereits das größte Problem im Kern angesprochen.
+Das Zusammenleben von Augments und Menschen ohne Mutationen.
+Der Hass aus den Eugenischen Kriegen sitzt tief und lässt sich kaum zügeln.
+Beide Seiten haben Angst.
+Du wirst Lernen müssen damit umzugehen.”
+
+"Also die Wohnungseinrichtung ist im Prinzip wie auf der Orbitalstation.
+Einzige Ausnahme: In den ersten 12 Geschossen kannst Du die Fenster öffnen.
+Ab dem 13. Geschoss werden bei Hochhäusern in der Regel Fenster eingebaut welche sich nicht öffnen lassen." leitet Mark ein.
+"Eine blöde Regelung, falls ich mal frische Luft atmen möchte.
+Gerade nach den Jahren im Orbit dürste mir nach frischer Luft, ungefiltert ohne vorgeschaltete Klimaanlage mit Adsorber oder Befeuchter." werfe ich ein.
+"Der Grund ist die durch offene Fenster entstehende Zugluft.
+In größerer Höhe wird bei offenen Fenstern durch einen Kamineffekt über Fahrstuhlschacht und Treppenhaus praktisch Luft aus dem Erdgeschoss bis in die Etage mit offenem Fenster transportiert.
+Um so größer die Druckunterschiede dabei sind um so heftiger fällt der entstehende Windzug aus.
+Das führt zu Klappergeräuschen, zuschlagenden Türen und erhöhter Abnutzung diverser mechanischer Einrichtungen.
+Dies alles fällt unter ungewünschten Lärm und ungewollten Kosten und wird daher von der Architektur so weit es geht verhindert." klärt Mark mich auf.
+"Dann sollte ich mir wohl eine Wohnung in den unteren Etagen anmieten.
+Ideal wäre vielleicht die elfte oder zwölfte Etage, da dürfte der Ausblick noch ganz gut sein." "Wenn Dir daran was liegt, kein Problem!
+Ich habe mich an die hermetische Abschottung im 80. Stock gewöhnt, mir gefällt das." führt Mark weiter aus.
+"Aber jedem nach seinen Geschmack :)".
+
+"Wie sieht es eigentlich mit der individuellen Einrichtung der Wohnungen aus?" frage ich.
+"Naja, das meiste ist fest vorinstalliert aber bei Bedarf kannst Du Dir einen Service aus dem Gewerbegebiet kommen lassen oder selbst Teile besorgen und austauschen." "Und wie bekomme ich die dann in die Stadt?
+Ein neuer Schlafzimmerschrank wird vermutlich nicht ins Flugtaxi passen." "Das ist kein Problem.
+Dafür gibt es spezielle Drohnen.
+Sehen aus wie große Badewannen, funktionieren aber ähnlich wie Schiffscontainer.
+Sind auch rechteckig und eben.
+Brauchst also keine Angst beim Abstellen der Waren haben.
+Die Drohnen werden von der Stadtverwaltung betrieben.
+Sie lagern den Betrieb zwar an weitere Firmen aus aber letztlich erfolgt die Ausschreibung von der Stadt." "Und das ist die große Neuerung?
+Da wird doch die Umwelt genauso verpestet." "Prinzipiell hast Du recht, irgendwo stirbt dafür ein Stück Umwelt aber eben nicht in der Stadt." versucht Mark zu schlichten.
+"Die Drohnen werden mit Strom betrieben und bewegen sich analog zu den Taxis autark durch die Stadt." "Das sind doch dann auch nur Autos.
+Warum lasst ihr dann nicht gleich privaten Autoverkehr in der Stadt zu?" frage ich skeptisch.
+"Nun es ist ein gewaltiger Unterschied ob tausende, emotional aufgeladene individuelle Personen in einem Auto sitzen und drängen weiter zu kommen oder ob sich eine Drohne autonom durch die Stadt bewegt.
+Der Drohne ist es letztlich egal wann die Ware am Ziel ankommt.
+Sie stört sich auch nicht daran ständig warten zu müssen wenn Passanten ihre Fahrtrichtung queren oder gar blockieren.
+Auf Grund von Messungen kann sie sogar recht genau den Zeitpunkt bestimmen an der sie vermutlich ihr Ziel erreicht." "Das scheint mir komisch, wie als würdest Du vom Regen in die Traufe kommen.
+Ihr wolltet die Autos loswerden und habt sie durch Drohnen ersetzt?
+Was ist der Vorteil.
+Das die Stadt jetzt von Drohnen überschwemmt wird?" "Nein, Drohnen gibt es nur in begrenzter Anzahl.
+Du musst sie reservieren, oft sogar lange im Voraus.
+Gut mit entsprechend hohem Geldeinsatz kannst Du auch andere Aufträge der Drohne canceln und Deinen eigenen einstellen.
+Das ist aber keine nachhaltige Lösung.
+Darum wird sie auch selten genutzt und natürlich weil sie wirklich und ich meine wirklich teuer ist." "Wie soll das dann gehen beim Schrankkauf?" "Du fährst mit dem ÖPNV ins Gewerbegebiet.
+Gehst dort in einen Möbelladen, kaufst den Schrank und lässt ihn Dir liefern.
+Der Händler bietet Dir dabei einige Termine an.
+Für einen entscheidest Du Dich und an dem bist Du dann auch zu Hause.
+Die angebotenen Termine richten sich einfach danach wann für die Strecke Drohnen reserviert werden können.
+Drohnen fahren zwar nur Schrittgeschwindigkeit aber dafür können sie vierundzwanzig Stunden am Tag transportieren.
+So gibt es eigentlich kein Problem."
+
+
+
+Weitere Zitate:
+Die Distanz zwischen Deinen Träumen und Der Realität heißt Handeln! - unbekannt
