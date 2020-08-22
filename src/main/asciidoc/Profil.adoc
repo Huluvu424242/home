@@ -16,7 +16,7 @@ Bei der Lösung meiner Aufgaben kommt mir meine langjährige Erfahrung im Bereic
 datenbankgestützter, modularer Anwendungen zugute. Die ständige Verbesserung der eingesetzen Technologien zur
 effizienteren Erstellung qualitativ hochwertiger Software (Software Engineering) als einziger Ausweg aus der
 Softwarekrise ist sowohl meine berufliche Zielsetzung wie gleichermaßen private Passion. In meiner Freizeit engagiere
-ich mich daher im OpenSource Bereich um die gewonnenen Erkenntnisse einer breiten Öffentlichkeit zur Verfügung zu stellen.
+ich mich daher im Open Source Bereich um die gewonnenen Erkenntnisse einer breiten Öffentlichkeit zur Verfügung zu stellen.
 
 === Systemerfahrungen
 [horizontal]
