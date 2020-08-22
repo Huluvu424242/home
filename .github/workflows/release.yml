@@ -20,7 +20,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         pwd
-        git clone https://github.com/Huluvu424242/home.git
+        git clone https://github.com/Huluvu424242/home.git .
         ls -Flarc
         chmod +x etc/devscripts/*.sh
         mkdir -p ~/.m2
