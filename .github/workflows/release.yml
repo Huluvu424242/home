@@ -20,6 +20,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        git remote set-url --push origin https://OWNER:${GITHUB_TOKEN}@github.com/Huluvu424242/home.git
         chmod +x etc/devscripts/*.sh
         mkdir -p ~/.m2
         echo "<settings><servers><server><id>github</id><username>OWNER</username><password>${GITHUB_TOKEN}</password></server></servers></settings>" > ~/.m2/settings.xml
@@ -30,5 +31,4 @@ jobs:
         git add ../../docs/*
         git commit -am "neue Doku generiert"
         git push origin HEAD:master
-#        git remote set-url --push origin https://OWNER:${GITHUB_TOKEN}@github.com/Huluvu424242/home.git
 
