@@ -40,6 +40,9 @@ include::hobbies/Lesen.adoc[]
 include::hobbies/Schreiben.adoc[]
 
 == Filme
+[quote, Heiner Geissler]
+Die Berühmtheit mancher Zeitgenossen hängt auch mit der Blödheit der Bewunderer zusammen.
+
 Neben meinen Hobbies genieße ich aber auch gern ab und zu einen Film. Dabei möchte ich diese in zwei Gruppen unterteilen. Jene Filme welche ich jeder Person empfehlen möchte und hoffe, dass sie sich diese anschaut und jene Filme die mir einfach nur gefallen. 
 
 Zur ersten Gruppe "Sollte man aus meiner Sicht gesehen haben" gehören:
