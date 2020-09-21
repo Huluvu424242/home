@@ -50,6 +50,18 @@ link:https://www.imdb.com/title/tt0098723/[Zwei schräge Vögel]:: Ein Film übe
 
 link:https://www.imdb.com/title/tt2270760/[Der Turm (Teil 1 & 2)]:: Ein Film welcher das Jahr 1989 ungeschminkt zeigt aus der Perspektive von DDR Bürgern welche der Klasse der Intelligenz zugeordnet wurden (Der Staat unterteilte damals die Bürger in: Arbeiter, Bauern, Intelligenz). 
 
+link:https://www.imdb.com/title/tt0874850/[An die Grenze]:: Ein Film welcher das Leben als Soldat auf Zeit an der Deutsch-Deutschen Grenze zeigt. Die Handlung scheint mir sehr realistisch, da sich viel Dinge mit meinen Erfahrungen an der Seegrenze decken.
+
+link:https://www.imdb.com/title/tt0405094/[Das Leben der Anderen]:: Ein sehr interessanter und spannender Film. Er scheint realistisch aber das kann ich nicht weiter beurteilen. 
+
+link:https://www.imdb.com/title/tt0434409/[V wie Vendetta]:: Ein sehr wachrüttelnder Film welcher aus meiner Sicht einen kritischen Blick auf die aktuellen Probleme der Gesellschaft lenkt. 
+
+link:https://www.imdb.com/title/tt0087803/[1984]:: Die Verfilmung von Georg Orwell's Roman 1984 in dem er aus meiner Sicht nicht nur den Kommunismus angreift sondern auch Kritik am Kapitalismus übt. 
+
+Link:https://www.imdb.com/title/tt0017136/[Metropolis]:: Eine sehr teure und mit viel Mühe wieder rekonstruierte Version von Fritz Lang's Orignialversion welches ja leider in großen Teilen vernichtet wurde. Ein Klassiker den man aus meiner Sicht auf jeden Fall gesehen haben sollte. Allerdings am besten in einem alternativen Kino mit entsprechender Begleitung durch Instrumente. 
+
+
+
 // Kontakt
 include::Kontakt.adoc[]
 
