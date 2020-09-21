@@ -42,7 +42,7 @@ include::hobbies/Schreiben.adoc[]
 == Filme
 Neben meinen Hobbies genieße ich aber auch gern ab und zu einen Film. Dabei möchte ich diese in zwei Gruppen unterteilen. Jene Filme welche ich jeder Person empfehlen möchte und hoffe, dass sie sich diese anschaut und jene Filme die mir einfach nur gefallen. 
 
-Zur ersten Gruppe gehören:
+Zur ersten Gruppe "Sollge man gesehen haben" gehören:
 
 link:https://www.imdb.com/title/tt7366338/[Tschernobyl]:: Ein Film über die Reaktorkatastrophe in Tschernobyl 1986. Ich kenne die deutsche Version des Filmes und aus meiner Sicht ist diese Version super gut recherchiert. Die Darstellungen passen sehr gut zu meinen Erinnerungen aus dieser Zeit und decken sich auch mit vielen Dokumentationen welche ich zu diesem Thema gesehen habe. 
 
@@ -59,6 +59,22 @@ link:https://www.imdb.com/title/tt0434409/[V wie Vendetta]:: Ein sehr wachrütte
 link:https://www.imdb.com/title/tt0087803/[1984]:: Die Verfilmung von Georg Orwell's Roman 1984 in dem er aus meiner Sicht nicht nur den Kommunismus angreift sondern auch Kritik am Kapitalismus übt. 
 
 link:https://www.imdb.com/title/tt0017136/[Metropolis]:: Eine sehr teure und mit viel Mühe wieder rekonstruierte Version von Fritz Lang's Orignialversion welches ja leider in großen Teilen vernichtet wurde. Ein Klassiker den man aus meiner Sicht auf jeden Fall gesehen haben sollte. Allerdings am besten in einem alternativen Kino mit entsprechender Begleitung durch Instrumente. 
+
+Zur zweiten Gruppe "Gefallen mir" gehören:
+
+link:https://www.imdb.com/title/tt0062622/[2001]:: Ein SciFi Klassiker, der immer wieder schön ist.
+
+link:https://ssl.ofdb.de/film/21917,Per-Anhalter-durch-die-Galaxis[Per Anhalter durch die Galaxis]:: SciFi aber aus meiner Sicht lohnt sich nur das Original aus dem Jahr 1981 welches als TV Serie ausgestrahlt wurde. Das gab es mal in den öffentlichen auf Deutsch. 
+
+link:https://www.imdb.com/title/tt0082096/[Das Boot]:: Auch ein Klassiker zum U-Boot Krieg im 2. Weltkrieg.
+
+link:https://www.imdb.com/title/tt0099810/[Jagd auf Roter Oktober]:: Flucht per Atom U Boot in den Westen.
+
+link:https://www.imdb.com/title/tt0073802/[Die drei Tage des Condor]:: Ich mag Robert Redford. Hier als Geheimagent auf der Flucht. 
+
+link:https://www.imdb.com/title/tt0060232/[Ein Mann wird gejagt]:: Gleich nochmal Robert Redford zusammen mit Jane Fonda.
+
+
 
 
 
