@@ -42,7 +42,9 @@ include::hobbies/Schreiben.adoc[]
 == Filme
 Neben meinen Hobbies genieße ich aber auch gern ab und zu einen Film. Dabei möchte ich diese in zwei Gruppen unterteilen. Jene Filme welche ich jeder Person empfehlen möchte und hoffe, dass sie sich diese anschaut und jene Filme die mir einfach nur gefallen. 
 
-Zur ersten Gruppe "Sollge man gesehen haben" gehören:
+Zur ersten Gruppe "Sollte man aus meiner Sicht gesehen haben" gehören:
+
+link:https://www.imdb.com/title/tt7205942/[Gundermann]:: Gundi war für mich ein Held, ein Revolutionär in der DDR, seine Musik war geil und er sagte was er dachte. Einen Fehler hat leider jeder, seiner war aus meiner Sicht: Er dachte er könnte bei der Stasi mitmischen um die oberen zehntausend ans Messer zu liefern. Er stellte schnell fest, dass die Informationen die er lieferte keiner hören wollte und die Informationen die er besorgen sollte er nicht besorgen wollte. Der Film zeigt sein Leben. Er ist jung gestorben aber ich hatte das Glück in noch live im Hörsaal der TUD erleben zu dürfen. R.I.P. Gundi. 
 
 link:https://www.imdb.com/title/tt7366338/[Tschernobyl]:: Ein Film über die Reaktorkatastrophe in Tschernobyl 1986. Ich kenne die deutsche Version des Filmes und aus meiner Sicht ist diese Version super gut recherchiert. Die Darstellungen passen sehr gut zu meinen Erinnerungen aus dieser Zeit und decken sich auch mit vielen Dokumentationen welche ich zu diesem Thema gesehen habe. 
 
@@ -56,9 +58,16 @@ link:https://www.imdb.com/title/tt0405094/[Das Leben der Anderen]:: Ein sehr int
 
 link:https://www.imdb.com/title/tt0434409/[V wie Vendetta]:: Ein sehr wachrüttelnder Film welcher aus meiner Sicht einen kritischen Blick auf die aktuellen Probleme der Gesellschaft lenkt. 
 
+link:https://www.imdb.com/title/tt0442896/[Lücke im System]:: Sehr guter Film aus meiner Sicht,  mit Gesellschaftskritik. 
+
+link:https://www.imdb.com/title/tt3042408/[How am i - Kein System ist sicher]:: Netter Film über einen Hacker.
+
 link:https://www.imdb.com/title/tt0087803/[1984]:: Die Verfilmung von Georg Orwell's Roman 1984 in dem er aus meiner Sicht nicht nur den Kommunismus angreift sondern auch Kritik am Kapitalismus übt. 
 
 link:https://www.imdb.com/title/tt0017136/[Metropolis]:: Eine sehr teure und mit viel Mühe wieder rekonstruierte Version von Fritz Lang's Orignialversion welches ja leider in großen Teilen vernichtet wurde. Ein Klassiker den man aus meiner Sicht auf jeden Fall gesehen haben sollte. Allerdings am besten in einem alternativen Kino mit entsprechender Begleitung durch Instrumente. 
+
+link:https://www.imdb.com/title/tt0379907/[Neuromancer]:: Hier hoffe ich, dass ich ihn irgendwann mal als Film bekomme. Bisher habe ich nur die Trilogie gelesen und bin begeistert. 
+
 
 Zur zweiten Gruppe "Gefallen mir" gehören:
 
@@ -73,6 +82,8 @@ link:https://www.imdb.com/title/tt0099810/[Jagd auf Roter Oktober]:: Flucht per 
 link:https://www.imdb.com/title/tt0073802/[Die drei Tage des Condor]:: Ich mag Robert Redford. Hier als Geheimagent auf der Flucht. 
 
 link:https://www.imdb.com/title/tt0060232/[Ein Mann wird gejagt]:: Gleich nochmal Robert Redford zusammen mit Jane Fonda.
+
+link:https://www.imdb.com/title/tt11053220/[Wir sind die Welle]:: Lehnt sich an den Film "Die Welle" an. 
 
 
 
