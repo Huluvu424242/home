@@ -43,7 +43,8 @@ include::hobbies/Schreiben.adoc[]
 Neben meinen Hobbies genieße ich aber auch gern ab und zu einen Film. Dabei möchte ich diese in zwei Gruppen unterteilen. Jene Filme welche ich jeder Person empfehlen möchte und hoffe, dass sie sich diese anschaut und jene Filme die mir einfach nur gefallen. 
 
 Zur ersten Gruppe gehören:
-* link:https://www.imdb.com/title/tt0098723/[Zwei schräge Vögel]:: Ein Film über die Probleme im täglichen Leben der DDR Bürger welcher so normal nie durch die Zensur gekommen wäre aber von den Veränderungen jener Tage überholt wurde. Dennoch hatte er damals sehr viel Biss und heute bietet er einen ironischen Einblick in das tägliche Leben der Bürger im Osten. 
+
+link:https://www.imdb.com/title/tt0098723/[Zwei schräge Vögel]:: Ein Film über die Probleme im täglichen Leben der DDR Bürger welcher so normal nie durch die Zensur gekommen wäre aber von den Veränderungen jener Tage überholt wurde. Dennoch hatte er damals sehr viel Biss und heute bietet er einen ironischen Einblick in das tägliche Leben der Bürger im Osten. 
 
 
 // Kontakt
