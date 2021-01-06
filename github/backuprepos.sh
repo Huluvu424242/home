@@ -193,8 +193,8 @@ git clone --mirror https://github.com/Huluvu424242/home.git
 cd home.git;git remote update; cd ..
 
 # [47] clone job-dealer
-git clone --mirror https://github.com/Huluvu424242/job-dealer.git
-cd job-dealer.git;git remote update; cd ..
+git clone --mirror https://github.com/Huluvu424242/oss-dealer.git
+cd oss-dealer.git;git remote update; cd ..
 
 # [48] clone jsdoc3-maven-plugin
 git clone --mirror https://github.com/Huluvu424242/jsdoc3-maven-plugin.git
