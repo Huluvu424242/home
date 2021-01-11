@@ -233,7 +233,7 @@ cd honey-webcomponents.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/honey-slideshow.git
 cd honey-slideshow.git;git remote update; cd ..
 
-# [57] clone honey-speech (later renamed to honey-speaker)
+# [57] clone honey-speech (backup because later renamed to honey-speaker)
 git clone --mirror https://github.com/Huluvu424242/honey-speech.git
 cd honey-speech.git;git remote update; cd ..
 
