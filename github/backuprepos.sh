@@ -241,3 +241,8 @@ cd honey-speech.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/honey-speaker.git
 cd honey-speaker.git;git remote update; cd ..
 
+# [59] clone honey-news
+git clone --mirror https://github.com/Huluvu424242/honey-news.git
+cd honey-news.git;git remote update; cd ..
+
+
