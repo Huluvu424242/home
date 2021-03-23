@@ -252,3 +252,9 @@ cd wc-storybook.git;git remote update; cd ..
 # [60] clone liona-news
 git clone --mirror https://github.com/Huluvu424242/liona-news.git
 cd liona-news.git;git remote update; cd ..
+
+# [61] clone license-check.example
+git clone --mirror https://github.com/Huluvu424242/license-check.example.git
+cd license-check.example.git;git remote update; cd ..
+
+
