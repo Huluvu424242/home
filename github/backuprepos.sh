@@ -265,3 +265,6 @@ cd vanilla-webcomponent-examples.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/honey-chucknorris-jokes.git
 cd honey-chucknorris-jokes.git;git remote update; cd ..
 
+# [64] clone honey-template
+git clone --mirror https://github.com/Huluvu424242/honey-template.git
+cd honey-template.git;git remote update; cd ..
