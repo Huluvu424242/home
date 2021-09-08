@@ -268,3 +268,11 @@ cd honey-chucknorris-jokes.git;git remote update; cd ..
 # [64] clone honey-template
 git clone --mirror https://github.com/Huluvu424242/honey-template.git
 cd honey-template.git;git remote update; cd ..
+
+# [65] clone honey-style-it
+git clone --mirror https://github.com/Huluvu424242/honey-style-it.git
+cd honey-style-it.git;git remote update; cd ..
+
+# [64] clone honey-papercss-style
+git clone --mirror https://github.com/Huluvu424242/honey-papercss-style.git
+cd honey-papercss-style.git;git remote update; cd ..
