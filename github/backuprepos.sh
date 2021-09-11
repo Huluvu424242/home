@@ -273,6 +273,17 @@ cd honey-template.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/honey-style-it.git
 cd honey-style-it.git;git remote update; cd ..
 
-# [64] clone honey-papercss-style
+# [66] clone honey-papercss-style
 git clone --mirror https://github.com/Huluvu424242/honey-papercss-style.git
 cd honey-papercss-style.git;git remote update; cd ..
+
+# [67] clone honey-bulma-style
+git clone --mirror https://github.com/Huluvu424242/honey-bulma-style.git
+cd honey-bulma-style.git;git remote update; cd ..
+
+# [64] clone honey-bootstrap-style
+git clone --mirror https://github.com/Huluvu424242/honey-bootstrap-style.git
+cd honey-bootstrap-style.git;git remote update; cd ..
+
+
+
