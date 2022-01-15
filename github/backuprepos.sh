@@ -249,9 +249,9 @@ cd honey-news.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/wc-storybook.git
 cd wc-storybook.git;git remote update; cd ..
 
-# [60] clone liona-news
-git clone --mirror https://github.com/Huluvu424242/liona-news.git
-cd liona-news.git;git remote update; cd ..
+# [60] clone liona-feeds
+git clone --mirror https://github.com/Huluvu424242/liona-feeds.git
+cd liona-feeds.git;git remote update; cd ..
 
 # [61] clone license-check.example
 git clone --mirror https://github.com/Huluvu424242/license-check.example.git
