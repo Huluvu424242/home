@@ -285,6 +285,14 @@ Datenbank:: 	Sybase
 Werkzeuge:: 	Delphi6, CAST
 Technologien:: 	OOP, Datenbankprogrammierung in 4GL
 
+* *2002 (1 Monat)* Erstellung Programmierrichtlinien für Oracle
+[horizontal]
+Betriebssystem:: 	Windows 2000
+Sprache:: 	PL/SQL, SQL
+Datenbank:: 	Oracle
+Werkzeuge:: 	Office
+Technologien:: 	Datenbankprogrammierung
+
 * *2001 (12 Monate)* 	Erstellung Prototype Firmenportal
 [horizontal]
 Betriebssystem:: 	Windows 2000
