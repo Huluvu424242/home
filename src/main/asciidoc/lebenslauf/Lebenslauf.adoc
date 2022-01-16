@@ -25,7 +25,8 @@ Tiefe Bildung glänzt nicht.
 *Abschluss:* Diplominformatiker
 10/1994 - 08/1995:: 	Studentische Hilfskraft am Institut für Informationssysteme +
 *Arbeitsgruppe:* Studium für Blinde und Sehbehinderte
-09/1995 - 09/1997:: 	Studentische Hilfskraft am Institut für Softwaretechnik I
+09/1995 - 09/1997:: 	Studentische Hilfskraft am Institut für Softwaretechnik I +
+Arbeiten im Rahmen des EPKfix Projektes
 03/1997 - 04/1997:: 	Praktikum bei der MACPerfekt GmbH in Dresden +
 Computer Reparaturen und Aufbau von Computersystemen in Schulen
 04/1997 - 06/1997:: 	Praktikum bei Dresden University Press +
