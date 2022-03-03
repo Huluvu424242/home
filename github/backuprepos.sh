@@ -289,6 +289,10 @@ cd honey-bootstrap-style.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/honey-normalize-style.git
 cd honey-normalize-style.git;git remote update; cd ..
 
-# [69] clone open-books
+# [70] clone open-books
 git clone --mirror https://github.com/Huluvu424242/open-books.git
 cd open-books.git;git remote update; cd ..
+
+# [71] clone hausarbeit
+git clone --mirror https://github.com/Huluvu424242/hausarbeit.git
+cd hausarbeit.git;git remote update; cd ..
