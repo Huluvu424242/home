@@ -31,6 +31,7 @@ Tools:: Webstorm, IntelliJ, Eclipse, git, maven, ant
 
 
 === Interessensgebiete
+* Webkomponenten
 * Objektorientierte Softwareentwicklung
 * Compilerbau
 
