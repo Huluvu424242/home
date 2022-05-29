@@ -37,4 +37,4 @@ Tools:: Webstorm, IntelliJ, Eclipse, git, maven, ant
 === Publikationen
 * Paper (2000): link:http://www.sciencedirect.com/science/article/pii/S0953543899000120[Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues,role=external,window=_blank]
 auch verfügbar über link:https://doi.org/10.1016/S0953-5438(99)00012-0[https://doi.org/10.1016/S0953-5438(99)00012-0,role=external,window=_blank]
-* Hausarbeit (1987): link:https://huluvu424242.github.io/hausarbeit/inhalt.html[Sterilisation- und Desinfektionsmaßnahmen, die zur Erhaltung der Asepsis und Einhaltung der RHR Richtlinien im Bereich Antibiotika notwendig sind]
+* Hausarbeit (1987): link:https://huluvu424242.github.io/hausarbeit/inhalt.html[Sterilisation- und Desinfektionsmaßnahmen, die zur Erhaltung der Asepsis und Einhaltung der RHR Richtlinien im Bereich Antibiotika notwendig sind,role=external,window=_blank]
