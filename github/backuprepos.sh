@@ -300,3 +300,18 @@ cd hausarbeit.git;git remote update; cd ..
 # [72] clone liona-core
 git clone --mirror https://github.com/Huluvu424242/liona-core.git
 cd liona-core.git;git remote update; cd ..
+
+# [73] clone jsf.example
+git clone --mirror https://github.com/Huluvu424242/jsf.example.git
+cd jsf.example.git;git remote update; cd ..
+
+
+
+
+
+
+
+
+
+
+
