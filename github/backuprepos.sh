@@ -305,6 +305,9 @@ cd liona-core.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/jsf.example.git
 cd jsf.example.git;git remote update; cd ..
 
+# [74] clone stencil-component.example
+git clone --mirror https://github.com/Huluvu424242/stencil-component.example.git
+cd stencil-component.example.git;git remote update; cd ..
 
 
 
