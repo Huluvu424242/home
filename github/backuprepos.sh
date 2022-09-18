@@ -257,9 +257,9 @@ cd liona-feeds.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/license-check.example.git
 cd license-check.example.git;git remote update; cd ..
 
-# [62] clone vanilla-webcomponent-examples
-git clone --mirror https://github.com/Huluvu424242/vanilla-webcomponent-examples.git
-cd vanilla-webcomponent-examples.git;git remote update; cd ..
+# [62] clone vanilla-webcomponent.example
+git clone --mirror https://github.com/Huluvu424242/vanilla-webcomponent.example.git
+cd vanilla-webcomponent.example.git;git remote update; cd ..
 
 # [63] clone honey-chucknorris-jokes
 git clone --mirror https://github.com/Huluvu424242/honey-chucknorris-jokes.git
