@@ -309,6 +309,10 @@ cd jsf.example.git;git remote update; cd ..
 git clone --mirror https://github.com/Huluvu424242/stencil-component.example.git
 cd stencil-component.example.git;git remote update; cd ..
 
+# [75] clone midi.example
+git clone --mirror https://github.com/Huluvu424242/midi.example.git
+cd midi.example.git;git remote update; cd ..
+
 
 
 
