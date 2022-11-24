@@ -429,3 +429,8 @@ cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 REPO_NAME=piug-homepage
 git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
 cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
+# [005] clone fakeDB4REST
+REPO_NAME=fakeDB4REST
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
