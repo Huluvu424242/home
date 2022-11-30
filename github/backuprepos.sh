@@ -405,6 +405,10 @@ REPO_NAME=fakeDB4REST
 git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
 cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 
+# [78] clone AoC
+REPO_NAME=AoC
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 
 
 
