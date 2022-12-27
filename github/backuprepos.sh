@@ -410,6 +410,11 @@ REPO_NAME=AoC
 git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
 cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 
+# [79] clone plantuml-maven-plugin.example
+REPO_NAME=plantuml-maven-plugin.example
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
 
 
 ###
