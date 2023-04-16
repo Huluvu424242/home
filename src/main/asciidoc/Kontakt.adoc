@@ -14,8 +14,8 @@ link:https://www.xing.com/profile/Thomas_Schubert41[Xing,role=external,window=_b
 link:https://www.linkedin.com/in/thomas-schubert-16148640/[Linkedin,role=external,window=_blank]
 link:https://stackoverflow.com/users/story/373498[Stackoverflow,role=external,window=_blank]
 link:https://github.com/Huluvu424242[github,role=external,window=_blank]
-link:https://bintray.com/funthomas424242/[bintray,role=external,window=_blank]
 link:https://www.openhub.net/accounts/FunThomas424242[Ohloh (OpenHub),role=external,window=_blank]
 link:https://www.last.fm/de/user/Huluvu424242[last.fm,role=external,window=_blank]
 link:https://steemit.com/@huluvu424242[steemit,role=external,window=_blank]
+link:https://bintray.com/funthomas424242/[bintray,role=external,window=_blank] (verloren, da nicht auf jfrog migriert)
 
