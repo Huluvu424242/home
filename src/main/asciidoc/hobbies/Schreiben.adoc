@@ -16,5 +16,5 @@ Meine Intuition sagt mir zwar, dass es dazu eines Planes bedarf aber da halte ic
 
 Also denn! Letzte Warnung es folgen eigene Texte :)
 
-* link:https://huluvu424242.github.io/open-books/zone7/einstieg.html[Zone 7,role=external,window=_blank]
+* link:https://huluvu424242.github.io/open-books/zone7/index.html[Zone 7,role=external,window=_blank]
 
