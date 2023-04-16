@@ -9,14 +9,9 @@
     <packaging>pom</packaging>
     <description>Homepage</description>
 
-    <prerequisites>
-        <maven>3.6.2</maven>
-    </prerequisites>
-
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-<!--        dieser Zeitstempel darf nur Tagesgenau sein, sonst gibt es eine Endlosschleife beim commit auf github (push delta skripte)-->
+        <!--        dieser Zeitstempel darf nur Tagesgenau sein, sonst gibt es eine Endlosschleife beim commit auf github (push delta skripte)-->
         <maven.build.timestamp.format>dd.MM.yyyy</maven.build.timestamp.format>
         <asciidoctor.maven.plugin.version>2.0.0-RC.1</asciidoctor.maven.plugin.version>
         <asciidoctorj.pdf.version>1.5.3</asciidoctorj.pdf.version>
@@ -38,6 +33,11 @@
         <defaultGoal>clean process-resources</defaultGoal>
         <pluginManagement>
             <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-enforcer-plugin</artifactId>
+                    <version>3.3.0</version>
+                </plugin>
                 <plugin>
                     <artifactId>maven-clean-plugin</artifactId>
                     <version>3.2.0</version>
@@ -92,6 +92,28 @@
             </plugins>
         </pluginManagement>
         <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-enforcer-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>enforce-versions</id>
+                        <goals>
+                            <goal>enforce</goal>
+                        </goals>
+                        <configuration>
+                            <rules>
+                                <requireMavenVersion>
+                                    <version>3.6.2</version>
+                                </requireMavenVersion>
+                                <requireJavaVersion>
+                                    <version>13</version>
+                                </requireJavaVersion>
+                            </rules>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
             <plugin>
                 <artifactId>maven-clean-plugin</artifactId>
                 <configuration>
@@ -150,7 +172,7 @@
                 <configuration>
                     <sourceDirectory>src/main/asciidoc</sourceDirectory>
                     <headerFooter>true</headerFooter>
-                   <!-- <imagesDir>../resources/images</imagesDir> -->
+                    <!-- <imagesDir>../resources/images</imagesDir> -->
                     <imagesDir>./img</imagesDir>
                     <preserveDirectories>true</preserveDirectories>
                     <attributes>
