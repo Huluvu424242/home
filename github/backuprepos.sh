@@ -420,6 +420,11 @@ REPO_NAME=my-ar-world
 git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
 cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 
+# [81] clone my-ar-world
+REPO_NAME=java-compiler-template
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
 
 
 ###
