@@ -430,6 +430,31 @@ REPO_NAME=vorschaubilder.analyse
 git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
 cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
 
+# [83] notizen
+REPO_NAME=notizen
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
+# [84] Raspi-Garage
+REPO_NAME=Raspi-Garage
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
+# [85] Raspi-Garage
+REPO_NAME=stammbaum
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
+# [86] shmoo-todo
+REPO_NAME=shmoo-todo
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
+# [87] mitschriften
+REPO_NAME=mitschriften
+git clone --mirror https://github.com/${OWNER}/${REPO_NAME}.git ${OWNER}/${REPO_NAME}.git
+cd ${OWNER}/${REPO_NAME}.git;git remote update; cd ../..
+
 
 ###
 ### PIUGroup Backup
