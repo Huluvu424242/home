@@ -4,6 +4,8 @@
 :Email:     <huluvu424242@gmail.com>
 :toc-title: Table of Adventures
 
+:imagesdir: ./img
+
 include::Profil.adoc[]
 
 include::lebenslauf/Lebenslauf.adoc[]

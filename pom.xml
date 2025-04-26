@@ -172,8 +172,6 @@
                 <configuration>
                     <sourceDirectory>src/main/asciidoc</sourceDirectory>
                     <headerFooter>true</headerFooter>
-                    <!-- <imagesDir>../resources/images</imagesDir> -->
-                    <imagesDir>./img</imagesDir>
                     <preserveDirectories>true</preserveDirectories>
                     <attributes>
                         <revnumber>${project.version}</revnumber>
