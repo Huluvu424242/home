@@ -1,0 +1,25 @@
+=== Fernschreiben
+
+Es gab bei der Marine Vordrucke für Funksprüche. Ein solcher wurde offensichtlich
+auch genutzt um mir meine Ablehnung zum Informatikstudium mitzuteilen.
+
+Damals waren die Betriebe für die Delegation der Mitarbeiter zum Studium zuständig
+ohne eine Delegation des Betriebes bekam man keinen Studienplatz, es sei denn man ist
+direkt den Weg über die EOS also die Abiturklassen 11 und 12 gegangen. Dieser Weg
+stand aber nicht jedem offen und wer welchen Weg gehen und welchen Beruf ausüben
+durfte unterlag der staatlichen Leitung.
+
+Ein Vorteil dieses Vorgehens bestand darin, dass immer genügend Lehrer für den
+Unterricht bereit standen und auch immer genügend Arbeiter in Berufen ausgebildet
+wurden, in denen sonst niemand gern arbeiten wollte. Ein Nachteil, bestand darin,
+dass die Personen welche von der staatlichen Leitung in Richtung Chemiefacharbeiter
+gelenkt wurden, sehr schwer aus der Chemiebranche in eine andere Branche wie Kybernetik
+(heute als Informatik bekannt) wechseln konnten. Da musste man im Leben schon einige
+Umwege und Wartezeiten in Kauf nehmen.
+
+Hier nun aber die Vorder- und die Rückseite der damals verwendeten Funkspruchkarten am
+Beispiel meiner Studienablehnung für Kybernetik und die gleichzeitige Umleitung zur
+Neubewerbung in einem Chemiestudium.
+
+image::AblehnungStudiumVorderseite.jpg[Vorderseite]
+image::AblehnungStudiumRückseite.jpg[Rückseite]

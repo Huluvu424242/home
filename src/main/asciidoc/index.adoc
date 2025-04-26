@@ -29,6 +29,7 @@ habe ich viele neue Dinge kennengelernt, die ich nun ausprobiere :)
 include::hobbies/funk/Funken.adoc[]
 
 include::hobbies/funk/buchstabieralphabete.adoc[]
+include::hobbies/funk/Fernschreiben.adoc[]
 
 // Kochen 
 include::hobbies/Kochen.adoc[]
